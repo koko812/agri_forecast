@@ -1,0 +1,28 @@
+{"ts": "2025-08-09T20:34:57", "type": "pref_start", "pref": "長野県", "url": "http://www.pref.nagano.lg.jp/bojo/"}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/hasseijyoho.html", "status": 200, "ct": "text/html", "bytes": 17158}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/yosatsu.html", "status": 200, "ct": "text/html", "bytes": 18578}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/kekka.html", "status": 200, "ct": "text/html", "bytes": 19531}
+{"ts": "2025-08-09T20:34:59", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/chikuhouno3.pdf", "status": 200, "ct": "application/pdf", "bytes": 605619}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/tyuuihouineimoti.pdf", "status": 200, "ct": "application/pdf", "bytes": 285762}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/20250714hantenmaikamemushi.pdf", "status": 200, "ct": "application/pdf", "bytes": 310175}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7tokushuho1gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 355709}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/20250529komugiakakabi.pdf", "status": 200, "ct": "application/pdf", "bytes": 230079}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7chikuhou2gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 255825}
+{"ts": "2025-08-09T20:35:03", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7chikuhou1gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 293921}
+{"ts": "2025-08-09T20:35:03", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r6boujokenshukai.pdf", "status": 200, "ct": "application/pdf", "bytes": 615123}
+{"ts": "2025-08-09T20:35:04", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/29tokusyu1.pdf", "status": 200, "ct": "application/pdf", "bytes": 167347}
+{"ts": "2025-08-09T20:35:04", "type": "pref_end", "pref": "長野県", "latest_year": 2025, "earliest_year": 2020, "hits_3y": 27, "html_ratio": 0.25, "has_backnumber": 1, "score10": 7, "samples": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/hasseijyoho.html;http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/yosatsu.html;http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/kekka.html"}
+{"ts": "2025-08-09T20:42:18", "type": "pref_start", "pref": "長野県", "url": "http://www.pref.nagano.lg.jp/bojo/"}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/hasseijyoho.html", "status": 200, "ct": "text/html", "bytes": 17158}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/yosatsu.html", "status": 200, "ct": "text/html", "bytes": 18578}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/kekka.html", "status": 200, "ct": "text/html", "bytes": 19531}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/chikuhouno3.pdf", "status": 200, "ct": "application/pdf", "bytes": 605619}
+{"ts": "2025-08-09T20:42:22", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/tyuuihouineimoti.pdf", "status": 200, "ct": "application/pdf", "bytes": 285762}
+{"ts": "2025-08-09T20:42:22", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/20250714hantenmaikamemushi.pdf", "status": 200, "ct": "application/pdf", "bytes": 310175}
+{"ts": "2025-08-09T20:42:23", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7tokushuho1gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 355709}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/20250529komugiakakabi.pdf", "status": 200, "ct": "application/pdf", "bytes": 230079}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7chikuhou2gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 255825}
+{"ts": "2025-08-09T20:42:25", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r7chikuhou1gou.pdf", "status": 200, "ct": "application/pdf", "bytes": 293921}
+{"ts": "2025-08-09T20:42:25", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/r6boujokenshukai.pdf", "status": 200, "ct": "application/pdf", "bytes": 615123}
+{"ts": "2025-08-09T20:42:26", "type": "fetch", "url": "http://www.pref.nagano.lg.jp/bojo/documents/29tokusyu1.pdf", "status": 200, "ct": "application/pdf", "bytes": 167347}
+{"ts": "2025-08-09T20:42:26", "type": "pref_end", "pref": "長野県", "latest_year": 2025, "earliest_year": 2020, "hits_3y": 27, "html_ratio": 0.25, "has_backnumber": 1, "score10": 7, "samples": "http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/hasseijyoho.html;http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/yosatsu.html;http://www.pref.nagano.lg.jp/bojo/joho/byogaichu/kekka.html"}

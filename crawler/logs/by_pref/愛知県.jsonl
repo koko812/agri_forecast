@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:11", "type": "pref_start", "pref": "愛知県", "url": "https://www.pref.aichi.jp/site/byogaichu/index.html"}
+{"ts": "2025-08-09T20:35:11", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu", "status": 200, "ct": "text/html", "bytes": 23650}
+{"ts": "2025-08-09T20:35:12", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/578108.pdf", "status": 200, "ct": "application/pdf", "bytes": 309907}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/578109.pdf", "status": 200, "ct": "application/pdf", "bytes": 552950}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/576399.pdf", "status": 200, "ct": "application/pdf", "bytes": 159641}
+{"ts": "2025-08-09T20:35:14", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/575001.pdf", "status": 200, "ct": "application/pdf", "bytes": 548613}
+{"ts": "2025-08-09T20:35:14", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/572093.pdf", "status": 200, "ct": "application/pdf", "bytes": 672481}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/565449.pdf", "status": 200, "ct": "application/pdf", "bytes": 189517}
+{"ts": "2025-08-09T20:35:16", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/543243.pdf", "status": 200, "ct": "application/pdf", "bytes": 637318}
+{"ts": "2025-08-09T20:35:16", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/521539.pdf", "status": 200, "ct": "application/pdf", "bytes": 545733}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/539001.pdf", "status": 200, "ct": "application/pdf", "bytes": 340229}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/map.html", "status": 200, "ct": "text/html", "bytes": 21186}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/yosatu2025.html", "status": 200, "ct": "text/html", "bytes": 30494}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/investigation.html", "status": 200, "ct": "text/html", "bytes": 23683}
+{"ts": "2025-08-09T20:35:19", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/tebiki.html", "status": 200, "ct": "text/html", "bytes": 31924}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/zukan.html", "status": 200, "ct": "text/html", "bytes": 18736}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/tirasi.html", "status": 200, "ct": "text/html", "bytes": 23054}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/link.html", "status": 200, "ct": "text/html", "bytes": 24910}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/email.html", "status": 200, "ct": "text/html", "bytes": 19322}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/toiawase.html", "status": 200, "ct": "text/html", "bytes": 19219}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/yosatu2024.html", "status": 200, "ct": "text/html", "bytes": 34912}
+{"ts": "2025-08-09T20:35:22", "type": "pref_end", "pref": "愛知県", "latest_year": 2025, "earliest_year": 2005, "hits_3y": 73, "html_ratio": 0.55, "has_backnumber": 1, "score10": 9, "samples": "https://www.pref.aichi.jp/site/byogaichu;https://www.pref.aichi.jp/uploaded/attachment/578108.pdf;https://www.pref.aichi.jp/uploaded/attachment/578109.pdf"}
+{"ts": "2025-08-09T20:42:31", "type": "pref_start", "pref": "愛知県", "url": "https://www.pref.aichi.jp/site/byogaichu/index.html"}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu", "status": 200, "ct": "text/html", "bytes": 23651}
+{"ts": "2025-08-09T20:42:33", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/578108.pdf", "status": 200, "ct": "application/pdf", "bytes": 309907}
+{"ts": "2025-08-09T20:42:33", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/578109.pdf", "status": 200, "ct": "application/pdf", "bytes": 552950}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/576399.pdf", "status": 200, "ct": "application/pdf", "bytes": 159641}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/575001.pdf", "status": 200, "ct": "application/pdf", "bytes": 548613}
+{"ts": "2025-08-09T20:42:35", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/572093.pdf", "status": 200, "ct": "application/pdf", "bytes": 672481}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/565449.pdf", "status": 200, "ct": "application/pdf", "bytes": 189517}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/543243.pdf", "status": 200, "ct": "application/pdf", "bytes": 637318}
+{"ts": "2025-08-09T20:42:37", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/521539.pdf", "status": 200, "ct": "application/pdf", "bytes": 545733}
+{"ts": "2025-08-09T20:42:38", "type": "fetch", "url": "https://www.pref.aichi.jp/uploaded/attachment/539001.pdf", "status": 200, "ct": "application/pdf", "bytes": 340229}
+{"ts": "2025-08-09T20:42:38", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/map.html", "status": 200, "ct": "text/html", "bytes": 21051}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/yosatu2025.html", "status": 200, "ct": "text/html", "bytes": 30360}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/investigation.html", "status": 200, "ct": "text/html", "bytes": 23548}
+{"ts": "2025-08-09T20:42:40", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/tebiki.html", "status": 200, "ct": "text/html", "bytes": 31789}
+{"ts": "2025-08-09T20:42:40", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/zukan.html", "status": 200, "ct": "text/html", "bytes": 18601}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/tirasi.html", "status": 200, "ct": "text/html", "bytes": 22919}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/link.html", "status": 200, "ct": "text/html", "bytes": 24776}
+{"ts": "2025-08-09T20:42:42", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/email.html", "status": 200, "ct": "text/html", "bytes": 19188}
+{"ts": "2025-08-09T20:42:42", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/toiawase.html", "status": 200, "ct": "text/html", "bytes": 19084}
+{"ts": "2025-08-09T20:42:43", "type": "fetch", "url": "https://www.pref.aichi.jp/site/byogaichu/yosatu2024.html", "status": 200, "ct": "text/html", "bytes": 34777}
+{"ts": "2025-08-09T20:42:43", "type": "pref_end", "pref": "愛知県", "latest_year": 2025, "earliest_year": 2005, "hits_3y": 72, "html_ratio": 0.55, "has_backnumber": 1, "score10": 9, "samples": "https://www.pref.aichi.jp/site/byogaichu;https://www.pref.aichi.jp/uploaded/attachment/578108.pdf;https://www.pref.aichi.jp/uploaded/attachment/578109.pdf"}

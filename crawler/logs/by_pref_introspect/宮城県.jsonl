@@ -1,0 +1,7 @@
+{"ts": "2025-08-09T21:33:35", "type": "start", "pref": "宮城県", "url": "http://www.pref.miyagi.jp/soshiki/byogai/"}
+{"ts": "2025-08-09T21:33:36", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/", "status": 200, "ct": "text/html", "bytes": 33584, "err": null}
+{"ts": "2025-08-09T21:33:37", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html", "status": 200, "ct": "text/html", "bytes": 33438, "err": null}
+{"ts": "2025-08-09T21:33:37", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/index.html", "status": 200, "ct": "text/html", "bytes": 33584, "err": null}
+{"ts": "2025-08-09T21:33:38", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/kakoyosatsu.html", "status": 200, "ct": "text/html", "bytes": 29199, "err": null}
+{"ts": "2025-08-09T21:33:39", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/lib-top.html", "status": 200, "ct": "text/html", "bytes": 40127, "err": null}
+{"ts": "2025-08-09T21:33:39", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/lib-top.html#fruit", "status": 200, "ct": "text/html", "bytes": 40127, "err": null}

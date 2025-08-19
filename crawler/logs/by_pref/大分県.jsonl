@@ -1,0 +1,16 @@
+{"ts": "2025-08-09T20:35:53", "type": "pref_start", "pref": "大分県", "url": "https://www.pref.oita.jp/site/oita-boujosho/"}
+{"ts": "2025-08-09T20:35:54", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/yosatutou.html", "status": 200, "ct": "text/html", "bytes": 23588}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/chuihou.html", "status": 200, "ct": "text/html", "bytes": 29517}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/site-oita-boujosho-boujoin-html.html", "status": 200, "ct": "text/html", "bytes": 23644}
+{"ts": "2025-08-09T20:35:56", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/yohou.html", "status": 200, "ct": "text/html", "bytes": 30831}
+{"ts": "2025-08-09T20:35:56", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/list22116-27965.html", "status": 200, "ct": "text/html", "bytes": 18657}
+{"ts": "2025-08-09T20:35:57", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/list22116-27966.html", "status": 200, "ct": "text/html", "bytes": 18640}
+{"ts": "2025-08-09T20:35:57", "type": "pref_end", "pref": "大分県", "latest_year": 2044, "earliest_year": 2023, "hits_3y": 3, "html_ratio": 1.0, "has_backnumber": 0, "score10": 6, "samples": "https://www.pref.oita.jp/site/oita-boujosho/yosatutou.html;https://www.pref.oita.jp/site/oita-boujosho/chuihou.html;https://www.pref.oita.jp/site/oita-boujosho/site-oita-boujosho-boujoin-html.html"}
+{"ts": "2025-08-09T20:43:15", "type": "pref_start", "pref": "大分県", "url": "https://www.pref.oita.jp/site/oita-boujosho/"}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/yosatutou.html", "status": 200, "ct": "text/html", "bytes": 23455}
+{"ts": "2025-08-09T20:43:17", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/chuihou.html", "status": 200, "ct": "text/html", "bytes": 29383}
+{"ts": "2025-08-09T20:43:17", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/site-oita-boujosho-boujoin-html.html", "status": 200, "ct": "text/html", "bytes": 23510}
+{"ts": "2025-08-09T20:43:18", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/yohou.html", "status": 200, "ct": "text/html", "bytes": 30698}
+{"ts": "2025-08-09T20:43:19", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/list22116-27965.html", "status": 200, "ct": "text/html", "bytes": 18524}
+{"ts": "2025-08-09T20:43:19", "type": "fetch", "url": "https://www.pref.oita.jp/site/oita-boujosho/list22116-27966.html", "status": 200, "ct": "text/html", "bytes": 18507}
+{"ts": "2025-08-09T20:43:19", "type": "pref_end", "pref": "大分県", "latest_year": 2025, "earliest_year": 2023, "hits_3y": 3, "html_ratio": 1.0, "has_backnumber": 0, "score10": 6, "samples": "https://www.pref.oita.jp/site/oita-boujosho/yosatutou.html;https://www.pref.oita.jp/site/oita-boujosho/chuihou.html;https://www.pref.oita.jp/site/oita-boujosho/site-oita-boujosho-boujoin-html.html"}

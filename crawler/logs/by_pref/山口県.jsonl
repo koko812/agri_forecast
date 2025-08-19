@@ -1,0 +1,34 @@
+{"ts": "2025-08-09T20:35:36", "type": "pref_start", "pref": "山口県", "url": "https://www.pref.yamaguchi.lg.jp/soshiki/122/22321.html"}
+{"ts": "2025-08-09T20:35:36", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217391.pdf", "status": 200, "ct": "application/pdf", "bytes": 520084}
+{"ts": "2025-08-09T20:35:37", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217438.pdf", "status": 200, "ct": "application/pdf", "bytes": 328676}
+{"ts": "2025-08-09T20:35:38", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217204.pdf", "status": 200, "ct": "application/pdf", "bytes": 315663}
+{"ts": "2025-08-09T20:35:38", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217145.pdf", "status": 200, "ct": "application/pdf", "bytes": 905854}
+{"ts": "2025-08-09T20:35:39", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215569.pdf", "status": 200, "ct": "application/pdf", "bytes": 217659}
+{"ts": "2025-08-09T20:35:40", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215183.pdf", "status": 200, "ct": "application/pdf", "bytes": 644886}
+{"ts": "2025-08-09T20:35:40", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215158.pdf", "status": 200, "ct": "application/pdf", "bytes": 300156}
+{"ts": "2025-08-09T20:35:41", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/214106.pdf", "status": 200, "ct": "application/pdf", "bytes": 407534}
+{"ts": "2025-08-09T20:35:42", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212577.pdf", "status": 200, "ct": "application/pdf", "bytes": 452483}
+{"ts": "2025-08-09T20:35:43", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212541.pdf", "status": 200, "ct": "application/pdf", "bytes": 263031}
+{"ts": "2025-08-09T20:35:43", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212321.pdf", "status": 200, "ct": "application/pdf", "bytes": 295768}
+{"ts": "2025-08-09T20:35:44", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/210938.pdf", "status": 200, "ct": "application/pdf", "bytes": 296798}
+{"ts": "2025-08-09T20:35:45", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/210216.pdf", "status": 200, "ct": "application/pdf", "bytes": 247304}
+{"ts": "2025-08-09T20:35:45", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/207848.pdf", "status": 200, "ct": "application/pdf", "bytes": 264688}
+{"ts": "2025-08-09T20:35:46", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/soshiki/122/22328.html", "status": 200, "ct": "text/html", "bytes": 33331}
+{"ts": "2025-08-09T20:35:46", "type": "pref_end", "pref": "山口県", "latest_year": 2035, "earliest_year": 2000, "hits_3y": 3, "html_ratio": 0.07, "has_backnumber": 0, "score10": 5, "samples": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217391.pdf;https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217438.pdf;https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217204.pdf"}
+{"ts": "2025-08-09T20:42:58", "type": "pref_start", "pref": "山口県", "url": "https://www.pref.yamaguchi.lg.jp/soshiki/122/22321.html"}
+{"ts": "2025-08-09T20:42:59", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217391.pdf", "status": 200, "ct": "application/pdf", "bytes": 520084}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217438.pdf", "status": 200, "ct": "application/pdf", "bytes": 328676}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217204.pdf", "status": 200, "ct": "application/pdf", "bytes": 315663}
+{"ts": "2025-08-09T20:43:01", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217145.pdf", "status": 200, "ct": "application/pdf", "bytes": 905854}
+{"ts": "2025-08-09T20:43:02", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215569.pdf", "status": 200, "ct": "application/pdf", "bytes": 217659}
+{"ts": "2025-08-09T20:43:02", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215183.pdf", "status": 200, "ct": "application/pdf", "bytes": 644886}
+{"ts": "2025-08-09T20:43:03", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/215158.pdf", "status": 200, "ct": "application/pdf", "bytes": 300156}
+{"ts": "2025-08-09T20:43:03", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/214106.pdf", "status": 200, "ct": "application/pdf", "bytes": 407534}
+{"ts": "2025-08-09T20:43:04", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212577.pdf", "status": 200, "ct": "application/pdf", "bytes": 452483}
+{"ts": "2025-08-09T20:43:05", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212541.pdf", "status": 200, "ct": "application/pdf", "bytes": 263031}
+{"ts": "2025-08-09T20:43:05", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/212321.pdf", "status": 200, "ct": "application/pdf", "bytes": 295768}
+{"ts": "2025-08-09T20:43:06", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/210938.pdf", "status": 200, "ct": "application/pdf", "bytes": 296798}
+{"ts": "2025-08-09T20:43:07", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/210216.pdf", "status": 200, "ct": "application/pdf", "bytes": 247304}
+{"ts": "2025-08-09T20:43:07", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/207848.pdf", "status": 200, "ct": "application/pdf", "bytes": 264688}
+{"ts": "2025-08-09T20:43:08", "type": "fetch", "url": "https://www.pref.yamaguchi.lg.jp/soshiki/122/22328.html", "status": 200, "ct": "text/html", "bytes": 33331}
+{"ts": "2025-08-09T20:43:08", "type": "pref_end", "pref": "山口県", "latest_year": 2025, "earliest_year": 2000, "hits_3y": 3, "html_ratio": 0.07, "has_backnumber": 0, "score10": 5, "samples": "https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217391.pdf;https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217438.pdf;https://www.pref.yamaguchi.lg.jp/uploaded/attachment/217204.pdf"}

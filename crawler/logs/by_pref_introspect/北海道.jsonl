@@ -1,0 +1,3 @@
+{"ts": "2025-08-09T21:33:35", "type": "start", "pref": "北海道", "url": "http://www.agri.hro.or.jp/boujosho/"}
+{"ts": "2025-08-09T21:33:36", "type": "fetch", "url": "http://www.agri.hro.or.jp/boujosho/", "status": 200, "ct": "text/html", "bytes": 21565, "err": null}
+{"ts": "2025-08-09T21:33:36", "type": "end", "pref": "北海道", "pages": 1, "earliest_year": null, "latest_year": null, "coverage_years": 0, "pdf_text_ratio": 0.0, "machine_files": 0}

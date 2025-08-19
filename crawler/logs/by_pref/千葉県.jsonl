@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:34:48", "type": "pref_start", "pref": "千葉県", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/index.html"}
+{"ts": "2025-08-09T20:34:49", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716yohou04.pdf", "status": 200, "ct": "application/pdf", "bytes": 642797}
+{"ts": "2025-08-09T20:34:50", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716hassei03.pdf", "status": 200, "ct": "application/pdf", "bytes": 307950}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou02.pdf", "status": 200, "ct": "application/pdf", "bytes": 513250}
+{"ts": "2025-08-09T20:34:52", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 247671}
+{"ts": "2025-08-09T20:34:53", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250709chuihou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 361281}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250613yohou03.pdf", "status": 200, "ct": "application/pdf", "bytes": 872834}
+{"ts": "2025-08-09T20:34:55", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250514yohou02.pdf", "status": 200, "ct": "application/pdf", "bytes": 1049516}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250416yohou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 750004}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250521hassei02.pdf", "status": 200, "ct": "application/pdf", "bytes": 416093}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250514hassei01.pdf", "status": 200, "ct": "application/pdf", "bytes": 401471}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/kako.html#kotoshiyohou", "status": 200, "ct": "text/html", "bytes": 39020}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/kako.html", "status": 200, "ct": "text/html", "bytes": 39021}
+{"ts": "2025-08-09T20:34:59", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/byougaichuu.html", "status": 200, "ct": "text/html", "bytes": 24019}
+{"ts": "2025-08-09T20:34:59", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/r5nenpou.html", "status": 200, "ct": "text/html", "bytes": 25019}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/r4nenpou.html", "status": 200, "ct": "text/html", "bytes": 24605}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2025/20250709tyuihou01.html", "status": 200, "ct": "text/html", "bytes": 26509}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240918tyuihou05.html", "status": 200, "ct": "text/html", "bytes": 26004}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240717tyuihou04.html", "status": 200, "ct": "text/html", "bytes": 25451}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240717tyuihou03.html", "status": 200, "ct": "text/html", "bytes": 25684}
+{"ts": "2025-08-09T20:35:03", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240710tyuihou.html", "status": 200, "ct": "text/html", "bytes": 26757}
+{"ts": "2025-08-09T20:35:03", "type": "pref_end", "pref": "千葉県", "latest_year": 2025, "earliest_year": 2022, "hits_3y": 176, "html_ratio": 0.5, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716yohou04.pdf;http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716hassei03.pdf;http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou02.pdf"}
+{"ts": "2025-08-09T20:42:11", "type": "pref_start", "pref": "千葉県", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/index.html"}
+{"ts": "2025-08-09T20:42:12", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716yohou04.pdf", "status": 200, "ct": "application/pdf", "bytes": 642797}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716hassei03.pdf", "status": 200, "ct": "application/pdf", "bytes": 307950}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou02.pdf", "status": 200, "ct": "application/pdf", "bytes": 513250}
+{"ts": "2025-08-09T20:42:14", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 247671}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250709chuihou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 361281}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250613yohou03.pdf", "status": 200, "ct": "application/pdf", "bytes": 872834}
+{"ts": "2025-08-09T20:42:17", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250514yohou02.pdf", "status": 200, "ct": "application/pdf", "bytes": 1049516}
+{"ts": "2025-08-09T20:42:18", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250416yohou01.pdf", "status": 200, "ct": "application/pdf", "bytes": 750004}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250521hassei02.pdf", "status": 200, "ct": "application/pdf", "bytes": 416093}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250514hassei01.pdf", "status": 200, "ct": "application/pdf", "bytes": 401471}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/kako.html#kotoshiyohou", "status": 200, "ct": "text/html", "bytes": 38886}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/kako.html", "status": 200, "ct": "text/html", "bytes": 38886}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/byougaichuu.html", "status": 200, "ct": "text/html", "bytes": 23885}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/r5nenpou.html", "status": 200, "ct": "text/html", "bytes": 24884}
+{"ts": "2025-08-09T20:42:22", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/r4nenpou.html", "status": 200, "ct": "text/html", "bytes": 24470}
+{"ts": "2025-08-09T20:42:22", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2025/20250709tyuihou01.html", "status": 200, "ct": "text/html", "bytes": 26374}
+{"ts": "2025-08-09T20:42:23", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240918tyuihou05.html", "status": 200, "ct": "text/html", "bytes": 25870}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240717tyuihou04.html", "status": 200, "ct": "text/html", "bytes": 25316}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240717tyuihou03.html", "status": 200, "ct": "text/html", "bytes": 25550}
+{"ts": "2025-08-09T20:42:25", "type": "fetch", "url": "http://www.pref.chiba.lg.jp/lab-nourin/press/2024/20240710tyuihou.html", "status": 200, "ct": "text/html", "bytes": 26623}
+{"ts": "2025-08-09T20:42:25", "type": "pref_end", "pref": "千葉県", "latest_year": 2025, "earliest_year": 2022, "hits_3y": 166, "html_ratio": 0.5, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716yohou04.pdf;http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716hassei03.pdf;http://www.pref.chiba.lg.jp/lab-nourin/nourin/boujo/documents/20250716tokushuhou02.pdf"}

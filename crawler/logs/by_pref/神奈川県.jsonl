@@ -1,0 +1,8 @@
+{"ts": "2025-08-09T20:34:53", "type": "pref_start", "pref": "神奈川県", "url": "http://www.pref.kanagawa.jp/cnt/f450002/"}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/2025_4_01.html", "status": 200, "ct": "text/html", "bytes": 11990}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/p580321.html", "status": 200, "ct": "text/html", "bytes": 12376}
+{"ts": "2025-08-09T20:34:54", "type": "pref_end", "pref": "神奈川県", "latest_year": 2025, "earliest_year": 2014, "hits_3y": 28, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/2025_4_01.html;http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/p580321.html"}
+{"ts": "2025-08-09T20:42:16", "type": "pref_start", "pref": "神奈川県", "url": "http://www.pref.kanagawa.jp/cnt/f450002/"}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/2025_4_01.html", "status": 200, "ct": "text/html", "bytes": 11990}
+{"ts": "2025-08-09T20:42:17", "type": "fetch", "url": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/p580321.html", "status": 200, "ct": "text/html", "bytes": 12376}
+{"ts": "2025-08-09T20:42:17", "type": "pref_end", "pref": "神奈川県", "latest_year": 2025, "earliest_year": 2014, "hits_3y": 28, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/2025_4_01.html;http://www.pref.kanagawa.jp/docs/cf7/cnt/f450002/p580321.html"}

@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:50", "type": "pref_start", "pref": "佐賀県", "url": "http://www.pref.saga.lg.jp/kiji00321899/index.html"}
+{"ts": "2025-08-09T20:35:51", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji003112663/index.html", "status": 200, "ct": "text/html", "bytes": 138814}
+{"ts": "2025-08-09T20:35:52", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_363580_up_i0clesnt.pdf", "status": 200, "ct": "application/pdf", "bytes": 164355}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_362778_up_seq0dulp.pdf", "status": 200, "ct": "application/pdf", "bytes": 1184773}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_359581_up_eitdrnio.pdf", "status": 200, "ct": "application/pdf", "bytes": 1272087}
+{"ts": "2025-08-09T20:35:54", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_356130_up_l2qaue1q.pdf", "status": 200, "ct": "application/pdf", "bytes": 892820}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_353011_up_8i1idvlk.pdf", "status": 200, "ct": "application/pdf", "bytes": 704967}
+{"ts": "2025-08-09T20:35:56", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_350668_up_4pb8j7yl.pdf", "status": 200, "ct": "application/pdf", "bytes": 618737}
+{"ts": "2025-08-09T20:35:57", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_345652_up_86te672h.pdf", "status": 200, "ct": "application/pdf", "bytes": 506280}
+{"ts": "2025-08-09T20:35:58", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_342177_up_to5naelm.pdf", "status": 200, "ct": "application/pdf", "bytes": 429444}
+{"ts": "2025-08-09T20:35:58", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_340121_up_htmknuh6.pdf", "status": 200, "ct": "application/pdf", "bytes": 364858}
+{"ts": "2025-08-09T20:36:00", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_338162_up_yjg8tr56.pdf", "status": 200, "ct": "application/pdf", "bytes": 518615}
+{"ts": "2025-08-09T20:36:00", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_335007_up_0m2rma32.pdf", "status": 200, "ct": "application/pdf", "bytes": 386403}
+{"ts": "2025-08-09T20:36:01", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_334827_up_536ho2lz.pdf", "status": 200, "ct": "application/pdf", "bytes": 205459}
+{"ts": "2025-08-09T20:36:02", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_334744_up_k1ylk4iy.pdf", "status": 200, "ct": "application/pdf", "bytes": 563265}
+{"ts": "2025-08-09T20:36:03", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_332119_up_8uno3up2.pdf", "status": 200, "ct": "application/pdf", "bytes": 1057394}
+{"ts": "2025-08-09T20:36:04", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_330827_up_knyyzl72.pdf", "status": 200, "ct": "application/pdf", "bytes": 303338}
+{"ts": "2025-08-09T20:36:05", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_328857_up_1m2awj1q.pdf", "status": 200, "ct": "application/pdf", "bytes": 1571932}
+{"ts": "2025-08-09T20:36:06", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_328658_up_ub0ewxjo.pdf", "status": 200, "ct": "application/pdf", "bytes": 217906}
+{"ts": "2025-08-09T20:36:06", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_327493_up_gcxbhbmv.pdf", "status": 200, "ct": "application/pdf", "bytes": 235431}
+{"ts": "2025-08-09T20:36:07", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_327494_up_m3dbky7l.pdf", "status": 200, "ct": "application/pdf", "bytes": 1970311}
+{"ts": "2025-08-09T20:36:07", "type": "pref_end", "pref": "佐賀県", "latest_year": 2041, "earliest_year": 2024, "hits_3y": 4, "html_ratio": 0.05, "has_backnumber": 1, "score10": 6, "samples": "http://www.pref.saga.lg.jp/kiji003112663/index.html;http://www.pref.saga.lg.jp/kiji00321899/3_21899_363580_up_i0clesnt.pdf;http://www.pref.saga.lg.jp/kiji00321899/3_21899_362778_up_seq0dulp.pdf"}
+{"ts": "2025-08-09T20:43:10", "type": "pref_start", "pref": "佐賀県", "url": "http://www.pref.saga.lg.jp/kiji00321899/index.html"}
+{"ts": "2025-08-09T20:43:11", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji003112663/index.html", "status": 200, "ct": "text/html", "bytes": 138814}
+{"ts": "2025-08-09T20:43:12", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_363580_up_i0clesnt.pdf", "status": 200, "ct": "application/pdf", "bytes": 164355}
+{"ts": "2025-08-09T20:43:13", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_362778_up_seq0dulp.pdf", "status": 200, "ct": "application/pdf", "bytes": 1184773}
+{"ts": "2025-08-09T20:43:14", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_359581_up_eitdrnio.pdf", "status": 200, "ct": "application/pdf", "bytes": 1272087}
+{"ts": "2025-08-09T20:43:14", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_356130_up_l2qaue1q.pdf", "status": 200, "ct": "application/pdf", "bytes": 892820}
+{"ts": "2025-08-09T20:43:15", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_353011_up_8i1idvlk.pdf", "status": 200, "ct": "application/pdf", "bytes": 704967}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_350668_up_4pb8j7yl.pdf", "status": 200, "ct": "application/pdf", "bytes": 618737}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_345652_up_86te672h.pdf", "status": 200, "ct": "application/pdf", "bytes": 506280}
+{"ts": "2025-08-09T20:43:17", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_342177_up_to5naelm.pdf", "status": 200, "ct": "application/pdf", "bytes": 429444}
+{"ts": "2025-08-09T20:43:18", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_340121_up_htmknuh6.pdf", "status": 200, "ct": "application/pdf", "bytes": 364858}
+{"ts": "2025-08-09T20:43:18", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_338162_up_yjg8tr56.pdf", "status": 200, "ct": "application/pdf", "bytes": 518615}
+{"ts": "2025-08-09T20:43:19", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_335007_up_0m2rma32.pdf", "status": 200, "ct": "application/pdf", "bytes": 386403}
+{"ts": "2025-08-09T20:43:20", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_334827_up_536ho2lz.pdf", "status": 200, "ct": "application/pdf", "bytes": 205459}
+{"ts": "2025-08-09T20:43:21", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_334744_up_k1ylk4iy.pdf", "status": 200, "ct": "application/pdf", "bytes": 563265}
+{"ts": "2025-08-09T20:43:21", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_332119_up_8uno3up2.pdf", "status": 200, "ct": "application/pdf", "bytes": 1057394}
+{"ts": "2025-08-09T20:43:22", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_330827_up_knyyzl72.pdf", "status": 200, "ct": "application/pdf", "bytes": 303338}
+{"ts": "2025-08-09T20:43:23", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_328857_up_1m2awj1q.pdf", "status": 200, "ct": "application/pdf", "bytes": 1571932}
+{"ts": "2025-08-09T20:43:23", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_328658_up_ub0ewxjo.pdf", "status": 200, "ct": "application/pdf", "bytes": 217906}
+{"ts": "2025-08-09T20:43:24", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_327493_up_gcxbhbmv.pdf", "status": 200, "ct": "application/pdf", "bytes": 235431}
+{"ts": "2025-08-09T20:43:25", "type": "fetch", "url": "http://www.pref.saga.lg.jp/kiji00321899/3_21899_327494_up_m3dbky7l.pdf", "status": 200, "ct": "application/pdf", "bytes": 1970311}
+{"ts": "2025-08-09T20:43:25", "type": "pref_end", "pref": "佐賀県", "latest_year": 2025, "earliest_year": 2025, "hits_3y": 1, "html_ratio": 0.05, "has_backnumber": 1, "score10": 5, "samples": "http://www.pref.saga.lg.jp/kiji003112663/index.html;http://www.pref.saga.lg.jp/kiji00321899/3_21899_363580_up_i0clesnt.pdf;http://www.pref.saga.lg.jp/kiji00321899/3_21899_362778_up_seq0dulp.pdf"}

@@ -1,0 +1,3 @@
+{"ts": "2025-08-09T21:33:35", "type": "start", "pref": "青森県", "url": "http://www.pref.aomori.lg.jp/soshiki/nourin/byogaichu/index.html"}
+{"ts": "2025-08-09T21:33:36", "type": "fetch", "url": "http://www.pref.aomori.lg.jp/soshiki/nourin/byogaichu/index.html", "status": null, "ct": null, "bytes": 0, "err": "robots_disallow"}
+{"ts": "2025-08-09T21:33:36", "type": "end", "pref": "青森県", "pages": 1, "earliest_year": null, "latest_year": null, "coverage_years": 0, "pdf_text_ratio": 0.0, "machine_files": 0}

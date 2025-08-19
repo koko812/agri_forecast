@@ -1,0 +1,18 @@
+{"ts": "2025-08-09T20:34:48", "type": "pref_start", "pref": "東京都", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo"}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo/yosatsu", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 565231}
+{"ts": "2025-08-09T20:34:52", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h22", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507515}
+{"ts": "2025-08-09T20:34:53", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h23", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507512}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h24", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507516}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h25", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507086}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h26", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 508040}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/jyuiryou/fukusayohoukoku", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 510516}
+{"ts": "2025-08-09T20:34:57", "type": "pref_end", "pref": "東京都", "latest_year": 2014, "earliest_year": 2002, "hits_3y": 0, "html_ratio": 1.0, "has_backnumber": 1, "score10": 5, "samples": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo/yosatsu;https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h22;https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h23"}
+{"ts": "2025-08-09T20:42:11", "type": "pref_start", "pref": "東京都", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo"}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo/yosatsu", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 565265}
+{"ts": "2025-08-09T20:42:14", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h22", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507515}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h23", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507546}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h24", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507516}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h25", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 507086}
+{"ts": "2025-08-09T20:42:17", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h26", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 508040}
+{"ts": "2025-08-09T20:42:18", "type": "fetch", "url": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/jyuiryou/fukusayohoukoku", "status": 200, "ct": "text/html;charset=utf-8", "bytes": 510516}
+{"ts": "2025-08-09T20:42:18", "type": "pref_end", "pref": "東京都", "latest_year": 2015, "earliest_year": 1970, "hits_3y": 0, "html_ratio": 1.0, "has_backnumber": 1, "score10": 5, "samples": "https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/boujyo/yosatsu;https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h22;https://www.sangyo-rodo.metro.tokyo.lg.jp/nourin/shoku/bse/h23"}

@@ -1,0 +1,22 @@
+{"ts": "2025-08-09T20:35:11", "type": "pref_start", "pref": "三重県", "url": "http://www.pref.mie.lg.jp/byogai/hp/index.htm"}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001194107.pdf", "status": 200, "ct": "application/pdf", "bytes": 865492}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001208864.pdf", "status": 200, "ct": "application/pdf", "bytes": 772388}
+{"ts": "2025-08-09T20:35:14", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001207317.pdf", "status": 200, "ct": "application/pdf", "bytes": 355933}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001204833.pdf", "status": 200, "ct": "application/pdf", "bytes": 721656}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39478007381.htm", "status": 200, "ct": "text/html", "bytes": 31888}
+{"ts": "2025-08-09T20:35:16", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39608007424_00001.htm", "status": 200, "ct": "text/html", "bytes": 21080}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/89944000001.htm", "status": 200, "ct": "text/html", "bytes": 21388}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39612007425.htm", "status": 200, "ct": "text/html", "bytes": 20847}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/05/ci600004410.htm", "status": 200, "ct": "text/html", "bytes": 34543}
+{"ts": "2025-08-09T20:35:18", "type": "pref_end", "pref": "三重県", "latest_year": 2025, "earliest_year": 2010, "hits_3y": 31, "html_ratio": 0.56, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.mie.lg.jp/common/content/001194107.pdf;http://www.pref.mie.lg.jp/common/content/001208864.pdf;http://www.pref.mie.lg.jp/common/content/001207317.pdf"}
+{"ts": "2025-08-09T20:42:32", "type": "pref_start", "pref": "三重県", "url": "http://www.pref.mie.lg.jp/byogai/hp/index.htm"}
+{"ts": "2025-08-09T20:42:33", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001194107.pdf", "status": 200, "ct": "application/pdf", "bytes": 865492}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001208864.pdf", "status": 200, "ct": "application/pdf", "bytes": 772388}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001207317.pdf", "status": 200, "ct": "application/pdf", "bytes": 355933}
+{"ts": "2025-08-09T20:42:35", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/content/001204833.pdf", "status": 200, "ct": "application/pdf", "bytes": 721656}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39478007381.htm", "status": 200, "ct": "text/html", "bytes": 31754}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39608007424_00001.htm", "status": 200, "ct": "text/html", "bytes": 20946}
+{"ts": "2025-08-09T20:42:37", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/89944000001.htm", "status": 200, "ct": "text/html", "bytes": 21255}
+{"ts": "2025-08-09T20:42:37", "type": "fetch", "url": "http://www.pref.mie.lg.jp/byogai/hp/39612007425.htm", "status": 200, "ct": "text/html", "bytes": 20714}
+{"ts": "2025-08-09T20:42:38", "type": "fetch", "url": "http://www.pref.mie.lg.jp/common/05/ci600004410.htm", "status": 200, "ct": "text/html", "bytes": 34409}
+{"ts": "2025-08-09T20:42:38", "type": "pref_end", "pref": "三重県", "latest_year": 2025, "earliest_year": 2010, "hits_3y": 31, "html_ratio": 0.56, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.mie.lg.jp/common/content/001194107.pdf;http://www.pref.mie.lg.jp/common/content/001208864.pdf;http://www.pref.mie.lg.jp/common/content/001207317.pdf"}

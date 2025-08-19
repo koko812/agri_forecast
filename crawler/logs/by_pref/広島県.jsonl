@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:31", "type": "pref_start", "pref": "広島県", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/"}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu", "status": 200, "ct": "text/html", "bytes": 31599}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/suito-imotobi.html", "status": 200, "ct": "text/html", "bytes": 24776}
+{"ts": "2025-08-09T20:35:33", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data.html", "status": 200, "ct": "text/html", "bytes": 27169}
+{"ts": "2025-08-09T20:35:34", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho-yohou.html", "status": 200, "ct": "text/html", "bytes": 22090}
+{"ts": "2025-08-09T20:35:34", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/index-2.html", "status": 200, "ct": "text/html", "bytes": 38742}
+{"ts": "2025-08-09T20:35:35", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/magazine.html", "status": 200, "ct": "text/html", "bytes": 25486}
+{"ts": "2025-08-09T20:35:35", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/keihatsu.html", "status": 200, "ct": "text/html", "bytes": 25817}
+{"ts": "2025-08-09T20:35:36", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/tyuui-keiho.html", "status": 200, "ct": "text/html", "bytes": 25390}
+{"ts": "2025-08-09T20:35:37", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho1-tokusyu.html", "status": 200, "ct": "text/html", "bytes": 23462}
+{"ts": "2025-08-09T20:35:37", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho-gijutujoho.html", "status": 200, "ct": "text/html", "bytes": 24703}
+{"ts": "2025-08-09T20:35:38", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho0.html", "status": 200, "ct": "text/html", "bytes": 25871}
+{"ts": "2025-08-09T20:35:38", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho3.html", "status": 200, "ct": "text/html", "bytes": 52130}
+{"ts": "2025-08-09T20:35:39", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho4.html", "status": 200, "ct": "text/html", "bytes": 44819}
+{"ts": "2025-08-09T20:35:40", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data5.html", "status": 200, "ct": "text/html", "bytes": 41625}
+{"ts": "2025-08-09T20:35:41", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun.html", "status": 200, "ct": "text/html", "bytes": 25857}
+{"ts": "2025-08-09T20:35:41", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun5.html", "status": 200, "ct": "text/html", "bytes": 55203}
+{"ts": "2025-08-09T20:35:42", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/zukan.html", "status": 200, "ct": "text/html", "bytes": 22288}
+{"ts": "2025-08-09T20:35:42", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/tyousa.html", "status": 200, "ct": "text/html", "bytes": 23497}
+{"ts": "2025-08-09T20:35:43", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun3.html", "status": 200, "ct": "text/html", "bytes": 32112}
+{"ts": "2025-08-09T20:35:44", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/mujin-heri.html", "status": 200, "ct": "text/html", "bytes": 30702}
+{"ts": "2025-08-09T20:35:44", "type": "pref_end", "pref": "広島県", "latest_year": 2034, "earliest_year": 2003, "hits_3y": 23, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "https://www.pref.hiroshima.lg.jp/site/byogaichu;https://www.pref.hiroshima.lg.jp/site/byogaichu/suito-imotobi.html;https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data.html"}
+{"ts": "2025-08-09T20:42:52", "type": "pref_start", "pref": "広島県", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/"}
+{"ts": "2025-08-09T20:42:53", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu", "status": 200, "ct": "text/html", "bytes": 31598}
+{"ts": "2025-08-09T20:42:54", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/suito-imotobi.html", "status": 200, "ct": "text/html", "bytes": 19330}
+{"ts": "2025-08-09T20:42:54", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data.html", "status": 200, "ct": "text/html", "bytes": 27036}
+{"ts": "2025-08-09T20:42:55", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho-yohou.html", "status": 200, "ct": "text/html", "bytes": 21957}
+{"ts": "2025-08-09T20:42:55", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/index-2.html", "status": 200, "ct": "text/html", "bytes": 38609}
+{"ts": "2025-08-09T20:42:56", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/magazine.html", "status": 200, "ct": "text/html", "bytes": 25353}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/keihatsu.html", "status": 200, "ct": "text/html", "bytes": 25683}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/tyuui-keiho.html", "status": 200, "ct": "text/html", "bytes": 19929}
+{"ts": "2025-08-09T20:42:58", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho1-tokusyu.html", "status": 200, "ct": "text/html", "bytes": 18024}
+{"ts": "2025-08-09T20:42:58", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho-gijutujoho.html", "status": 200, "ct": "text/html", "bytes": 19265}
+{"ts": "2025-08-09T20:42:59", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho0.html", "status": 200, "ct": "text/html", "bytes": 25736}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho3.html", "status": 200, "ct": "text/html", "bytes": 46652}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-joho4.html", "status": 200, "ct": "text/html", "bytes": 44684}
+{"ts": "2025-08-09T20:43:01", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data5.html", "status": 200, "ct": "text/html", "bytes": 41491}
+{"ts": "2025-08-09T20:43:02", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun.html", "status": 200, "ct": "text/html", "bytes": 20407}
+{"ts": "2025-08-09T20:43:02", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun5.html", "status": 200, "ct": "text/html", "bytes": 55068}
+{"ts": "2025-08-09T20:43:03", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/zukan.html", "status": 200, "ct": "text/html", "bytes": 16839}
+{"ts": "2025-08-09T20:43:03", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/tyousa.html", "status": 200, "ct": "text/html", "bytes": 18056}
+{"ts": "2025-08-09T20:43:04", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/boujo-kijun3.html", "status": 200, "ct": "text/html", "bytes": 31977}
+{"ts": "2025-08-09T20:43:05", "type": "fetch", "url": "https://www.pref.hiroshima.lg.jp/site/byogaichu/mujin-heri.html", "status": 200, "ct": "text/html", "bytes": 25202}
+{"ts": "2025-08-09T20:43:05", "type": "pref_end", "pref": "広島県", "latest_year": 2025, "earliest_year": 2003, "hits_3y": 23, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "https://www.pref.hiroshima.lg.jp/site/byogaichu;https://www.pref.hiroshima.lg.jp/site/byogaichu/suito-imotobi.html;https://www.pref.hiroshima.lg.jp/site/byogaichu/yosatsu-data.html"}

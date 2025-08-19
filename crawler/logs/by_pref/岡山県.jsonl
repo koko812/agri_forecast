@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:29", "type": "pref_start", "pref": "岡山県", "url": "http://www.pref.okayama.jp/soshiki/239/"}
+{"ts": "2025-08-09T20:35:30", "type": "fetch", "url": "http://www.pref.okayama.jp/page/990678.html", "status": 200, "ct": "text/html", "bytes": 16333}
+{"ts": "2025-08-09T20:35:31", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-70201.html", "status": 200, "ct": "text/html", "bytes": 19283}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-95344.html", "status": 200, "ct": "text/html", "bytes": 16188}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "http://www.pref.okayama.jp/page/727397.html", "status": 200, "ct": "text/html", "bytes": 20491}
+{"ts": "2025-08-09T20:35:33", "type": "fetch", "url": "http://www.pref.okayama.jp/page/910560.html", "status": 200, "ct": "text/html", "bytes": 20033}
+{"ts": "2025-08-09T20:35:34", "type": "fetch", "url": "http://www.pref.okayama.jp/page/848616.html", "status": 200, "ct": "text/html", "bytes": 21442}
+{"ts": "2025-08-09T20:35:34", "type": "fetch", "url": "http://www.pref.okayama.jp/page/777417.html", "status": 200, "ct": "text/html", "bytes": 19725}
+{"ts": "2025-08-09T20:35:35", "type": "fetch", "url": "http://www.pref.okayama.jp/page/969487.html", "status": 200, "ct": "text/html", "bytes": 21668}
+{"ts": "2025-08-09T20:35:36", "type": "fetch", "url": "http://www.pref.okayama.jp/page/661001.html", "status": 200, "ct": "text/html", "bytes": 21072}
+{"ts": "2025-08-09T20:35:37", "type": "fetch", "url": "http://www.pref.okayama.jp/page/610593.html", "status": 200, "ct": "text/html", "bytes": 20626}
+{"ts": "2025-08-09T20:35:37", "type": "fetch", "url": "http://www.pref.okayama.jp/page/561097.html", "status": 200, "ct": "text/html", "bytes": 19142}
+{"ts": "2025-08-09T20:35:38", "type": "fetch", "url": "http://www.pref.okayama.jp/page/519835.html", "status": 200, "ct": "text/html", "bytes": 19767}
+{"ts": "2025-08-09T20:35:39", "type": "fetch", "url": "http://www.pref.okayama.jp/page/479022.html", "status": 200, "ct": "text/html", "bytes": 19031}
+{"ts": "2025-08-09T20:35:39", "type": "fetch", "url": "http://www.pref.okayama.jp/page/425222.html", "status": 200, "ct": "text/html", "bytes": 20151}
+{"ts": "2025-08-09T20:35:40", "type": "fetch", "url": "http://www.pref.okayama.jp/page/382389.html", "status": 200, "ct": "text/html", "bytes": 19426}
+{"ts": "2025-08-09T20:35:41", "type": "fetch", "url": "http://www.pref.okayama.jp/page/332683.html", "status": 200, "ct": "text/html", "bytes": 19835}
+{"ts": "2025-08-09T20:35:42", "type": "fetch", "url": "http://www.pref.okayama.jp/page/272588.html", "status": 200, "ct": "text/html", "bytes": 18414}
+{"ts": "2025-08-09T20:35:42", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-95376.html", "status": 200, "ct": "text/html", "bytes": 18987}
+{"ts": "2025-08-09T20:35:43", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-69628.html", "status": 200, "ct": "text/html", "bytes": 18340}
+{"ts": "2025-08-09T20:35:44", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-69627.html", "status": 200, "ct": "text/html", "bytes": 18624}
+{"ts": "2025-08-09T20:35:44", "type": "pref_end", "pref": "岡山県", "latest_year": 2033, "earliest_year": 2008, "hits_3y": 13, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.okayama.jp/page/990678.html;http://www.pref.okayama.jp/page/detail-70201.html;http://www.pref.okayama.jp/page/detail-95344.html"}
+{"ts": "2025-08-09T20:42:51", "type": "pref_start", "pref": "岡山県", "url": "http://www.pref.okayama.jp/soshiki/239/"}
+{"ts": "2025-08-09T20:42:52", "type": "fetch", "url": "http://www.pref.okayama.jp/page/990678.html", "status": 200, "ct": "text/html", "bytes": 16333}
+{"ts": "2025-08-09T20:42:53", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-70201.html", "status": 200, "ct": "text/html", "bytes": 19283}
+{"ts": "2025-08-09T20:42:53", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-95344.html", "status": 200, "ct": "text/html", "bytes": 16188}
+{"ts": "2025-08-09T20:42:54", "type": "fetch", "url": "http://www.pref.okayama.jp/page/727397.html", "status": 200, "ct": "text/html", "bytes": 20491}
+{"ts": "2025-08-09T20:42:55", "type": "fetch", "url": "http://www.pref.okayama.jp/page/910560.html", "status": 200, "ct": "text/html", "bytes": 20033}
+{"ts": "2025-08-09T20:42:55", "type": "fetch", "url": "http://www.pref.okayama.jp/page/848616.html", "status": 200, "ct": "text/html", "bytes": 21442}
+{"ts": "2025-08-09T20:42:56", "type": "fetch", "url": "http://www.pref.okayama.jp/page/777417.html", "status": 200, "ct": "text/html", "bytes": 19725}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "http://www.pref.okayama.jp/page/969487.html", "status": 200, "ct": "text/html", "bytes": 21668}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "http://www.pref.okayama.jp/page/661001.html", "status": 200, "ct": "text/html", "bytes": 21072}
+{"ts": "2025-08-09T20:42:58", "type": "fetch", "url": "http://www.pref.okayama.jp/page/610593.html", "status": 200, "ct": "text/html", "bytes": 20626}
+{"ts": "2025-08-09T20:42:59", "type": "fetch", "url": "http://www.pref.okayama.jp/page/561097.html", "status": 200, "ct": "text/html", "bytes": 19142}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "http://www.pref.okayama.jp/page/519835.html", "status": 200, "ct": "text/html", "bytes": 19767}
+{"ts": "2025-08-09T20:43:00", "type": "fetch", "url": "http://www.pref.okayama.jp/page/479022.html", "status": 200, "ct": "text/html", "bytes": 19031}
+{"ts": "2025-08-09T20:43:02", "type": "fetch", "url": "http://www.pref.okayama.jp/page/425222.html", "status": 200, "ct": "text/html", "bytes": 20151}
+{"ts": "2025-08-09T20:43:03", "type": "fetch", "url": "http://www.pref.okayama.jp/page/382389.html", "status": 200, "ct": "text/html", "bytes": 19426}
+{"ts": "2025-08-09T20:43:04", "type": "fetch", "url": "http://www.pref.okayama.jp/page/332683.html", "status": 200, "ct": "text/html", "bytes": 19835}
+{"ts": "2025-08-09T20:43:04", "type": "fetch", "url": "http://www.pref.okayama.jp/page/272588.html", "status": 200, "ct": "text/html", "bytes": 18414}
+{"ts": "2025-08-09T20:43:05", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-95376.html", "status": 200, "ct": "text/html", "bytes": 18987}
+{"ts": "2025-08-09T20:43:06", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-69628.html", "status": 200, "ct": "text/html", "bytes": 18340}
+{"ts": "2025-08-09T20:43:06", "type": "fetch", "url": "http://www.pref.okayama.jp/page/detail-69627.html", "status": 200, "ct": "text/html", "bytes": 18624}
+{"ts": "2025-08-09T20:43:06", "type": "pref_end", "pref": "岡山県", "latest_year": 2025, "earliest_year": 2008, "hits_3y": 13, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.okayama.jp/page/990678.html;http://www.pref.okayama.jp/page/detail-70201.html;http://www.pref.okayama.jp/page/detail-95344.html"}

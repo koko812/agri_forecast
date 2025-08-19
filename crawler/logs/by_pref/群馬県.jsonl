@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:34:46", "type": "pref_start", "pref": "群馬県", "url": "http://www.pref.gunma.jp/07/p14210015.html"}
+{"ts": "2025-08-09T20:34:49", "type": "fetch", "url": "http://www.pref.gunma.jp/page/101698.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 20899}
+{"ts": "2025-08-09T20:34:49", "type": "fetch", "url": "http://www.pref.gunma.jp/uploaded/attachment/671249.pdf", "status": 200, "ct": "application/pdf", "bytes": 69014}
+{"ts": "2025-08-09T20:34:50", "type": "fetch", "url": "http://www.pref.gunma.jp/page/716551.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 60955}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "http://www.pref.gunma.jp/page/712082.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 52971}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "http://www.pref.gunma.jp/page/707108.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 46261}
+{"ts": "2025-08-09T20:34:52", "type": "fetch", "url": "http://www.pref.gunma.jp/page/701687.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48353}
+{"ts": "2025-08-09T20:34:53", "type": "fetch", "url": "http://www.pref.gunma.jp/page/697601.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 42968}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "http://www.pref.gunma.jp/page/690931.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 31955}
+{"ts": "2025-08-09T20:34:54", "type": "fetch", "url": "http://www.pref.gunma.jp/page/685964.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 32106}
+{"ts": "2025-08-09T20:34:55", "type": "fetch", "url": "http://www.pref.gunma.jp/page/681922.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 28744}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "http://www.pref.gunma.jp/page/677753.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 29864}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.gunma.jp/page/673747.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 36606}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.gunma.jp/page/669081.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48175}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.gunma.jp/page/664557.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 57786}
+{"ts": "2025-08-09T20:34:59", "type": "fetch", "url": "http://www.pref.gunma.jp/page/659756.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 60036}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.gunma.jp/page/654911.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 52880}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.gunma.jp/page/650461.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 42160}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.gunma.jp/page/645691.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48721}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.gunma.jp/page/640842.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 39924}
+{"ts": "2025-08-09T20:35:03", "type": "fetch", "url": "http://www.pref.gunma.jp/page/716552.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 30106}
+{"ts": "2025-08-09T20:35:03", "type": "pref_end", "pref": "群馬県", "latest_year": 2025, "earliest_year": 2010, "hits_3y": 76, "html_ratio": 0.95, "has_backnumber": 1, "score10": 10, "samples": "http://www.pref.gunma.jp/page/101698.html;http://www.pref.gunma.jp/uploaded/attachment/671249.pdf;http://www.pref.gunma.jp/page/716551.html"}
+{"ts": "2025-08-09T20:42:09", "type": "pref_start", "pref": "群馬県", "url": "http://www.pref.gunma.jp/07/p14210015.html"}
+{"ts": "2025-08-09T20:42:10", "type": "fetch", "url": "http://www.pref.gunma.jp/page/101698.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 20898}
+{"ts": "2025-08-09T20:42:11", "type": "fetch", "url": "http://www.pref.gunma.jp/uploaded/attachment/671249.pdf", "status": 200, "ct": "application/pdf", "bytes": 69014}
+{"ts": "2025-08-09T20:42:12", "type": "fetch", "url": "http://www.pref.gunma.jp/page/716551.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 60952}
+{"ts": "2025-08-09T20:42:12", "type": "fetch", "url": "http://www.pref.gunma.jp/page/712082.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 52973}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.gunma.jp/page/707108.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 46261}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.gunma.jp/page/701687.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48352}
+{"ts": "2025-08-09T20:42:14", "type": "fetch", "url": "http://www.pref.gunma.jp/page/697601.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 42969}
+{"ts": "2025-08-09T20:42:14", "type": "fetch", "url": "http://www.pref.gunma.jp/page/690931.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 31954}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "http://www.pref.gunma.jp/page/685964.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 32105}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "http://www.pref.gunma.jp/page/681922.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 28743}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "http://www.pref.gunma.jp/page/677753.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 29864}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "http://www.pref.gunma.jp/page/673747.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 36607}
+{"ts": "2025-08-09T20:42:17", "type": "fetch", "url": "http://www.pref.gunma.jp/page/669081.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48176}
+{"ts": "2025-08-09T20:42:17", "type": "fetch", "url": "http://www.pref.gunma.jp/page/664557.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 57788}
+{"ts": "2025-08-09T20:42:18", "type": "fetch", "url": "http://www.pref.gunma.jp/page/659756.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 60036}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.gunma.jp/page/654911.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 52881}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.gunma.jp/page/650461.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 42160}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.gunma.jp/page/645691.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 48720}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.gunma.jp/page/640842.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 39924}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.gunma.jp/page/716552.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 30107}
+{"ts": "2025-08-09T20:42:21", "type": "pref_end", "pref": "群馬県", "latest_year": 2025, "earliest_year": 2020, "hits_3y": 74, "html_ratio": 0.95, "has_backnumber": 1, "score10": 10, "samples": "http://www.pref.gunma.jp/page/101698.html;http://www.pref.gunma.jp/uploaded/attachment/671249.pdf;http://www.pref.gunma.jp/page/716551.html"}

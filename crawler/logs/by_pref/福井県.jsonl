@@ -1,0 +1,22 @@
+{"ts": "2025-08-09T20:35:08", "type": "pref_start", "pref": "福井県", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo.html"}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250806.pdf", "status": 200, "ct": "application/pdf", "bytes": 419271}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250703.pdf", "status": 200, "ct": "application/pdf", "bytes": 418311}
+{"ts": "2025-08-09T20:35:10", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250603.pdf", "status": 200, "ct": "application/pdf", "bytes": 457613}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250501.pdf", "status": 200, "ct": "application/pdf", "bytes": 373452}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250331.pdf", "status": 200, "ct": "application/pdf", "bytes": 506841}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250306.pdf", "status": 200, "ct": "application/pdf", "bytes": 462692}
+{"ts": "2025-08-09T20:35:16", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250709.pdf", "status": 200, "ct": "application/pdf", "bytes": 286791}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250514.pdf", "status": 200, "ct": "application/pdf", "bytes": 533710}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/021033/shokuryouanzen/boujoshishin.html", "status": 200, "ct": "text/html", "bytes": 25302}
+{"ts": "2025-08-09T20:35:17", "type": "pref_end", "pref": "福井県", "latest_year": 2025, "earliest_year": 2024, "hits_3y": 3, "html_ratio": 0.11, "has_backnumber": 0, "score10": 4, "samples": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250806.pdf;https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250703.pdf;https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250603.pdf"}
+{"ts": "2025-08-09T20:42:30", "type": "pref_start", "pref": "福井県", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo.html"}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250806.pdf", "status": 200, "ct": "application/pdf", "bytes": 419271}
+{"ts": "2025-08-09T20:42:31", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250703.pdf", "status": 200, "ct": "application/pdf", "bytes": 418311}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250603.pdf", "status": 200, "ct": "application/pdf", "bytes": 457613}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250501.pdf", "status": 200, "ct": "application/pdf", "bytes": 373452}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250331.pdf", "status": 200, "ct": "application/pdf", "bytes": 506841}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250306.pdf", "status": 200, "ct": "application/pdf", "bytes": 462692}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250709.pdf", "status": 200, "ct": "application/pdf", "bytes": 286791}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250514.pdf", "status": 200, "ct": "application/pdf", "bytes": 533710}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.fukui.lg.jp/doc/021033/shokuryouanzen/boujoshishin.html", "status": 200, "ct": "text/html", "bytes": 25302}
+{"ts": "2025-08-09T20:42:41", "type": "pref_end", "pref": "福井県", "latest_year": 2025, "earliest_year": 2024, "hits_3y": 3, "html_ratio": 0.11, "has_backnumber": 0, "score10": 4, "samples": "https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250806.pdf;https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250703.pdf;https://www.pref.fukui.lg.jp/doc/noushi/kankyo/boujyo_d/fil/20250603.pdf"}

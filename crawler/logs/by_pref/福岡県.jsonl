@@ -1,0 +1,24 @@
+{"ts": "2025-08-09T20:35:49", "type": "pref_start", "pref": "福岡県", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo.html"}
+{"ts": "2025-08-09T20:35:50", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/life/8/67/305/", "status": 200, "ct": "text/html", "bytes": 41661}
+{"ts": "2025-08-09T20:35:51", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/262950.pdf", "status": 200, "ct": "application/pdf", "bytes": 329995}
+{"ts": "2025-08-09T20:35:52", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#yoho", "status": 200, "ct": "text/html", "bytes": 54676}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#keihou", "status": 200, "ct": "text/html", "bytes": 54676}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#tyuihou", "status": 200, "ct": "text/html", "bytes": 54675}
+{"ts": "2025-08-09T20:35:54", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#tokusyuhou", "status": 200, "ct": "text/html", "bytes": 54676}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#sokuhou", "status": 200, "ct": "text/html", "bytes": 54675}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#gizyutuzyouhou", "status": 200, "ct": "text/html", "bytes": 54676}
+{"ts": "2025-08-09T20:35:56", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/bojonotebiki.html", "status": 200, "ct": "text/html", "bytes": 56388}
+{"ts": "2025-08-09T20:35:57", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/248494.pdf", "status": 200, "ct": "application/pdf", "bytes": 3599289}
+{"ts": "2025-08-09T20:35:57", "type": "pref_end", "pref": "福岡県", "latest_year": 2025, "earliest_year": 2025, "hits_3y": 1, "html_ratio": 0.8, "has_backnumber": 1, "score10": 7, "samples": "https://www.pref.fukuoka.lg.jp/life/8/67/305/;https://www.pref.fukuoka.lg.jp/uploaded/attachment/262950.pdf;https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#yoho"}
+{"ts": "2025-08-09T20:43:10", "type": "pref_start", "pref": "福岡県", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo.html"}
+{"ts": "2025-08-09T20:43:11", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/life/8/67/305/", "status": 200, "ct": "text/html", "bytes": 41528}
+{"ts": "2025-08-09T20:43:12", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/262950.pdf", "status": 200, "ct": "application/pdf", "bytes": 329995}
+{"ts": "2025-08-09T20:43:13", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#yoho", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:13", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#keihou", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:14", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#tyuihou", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:15", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#tokusyuhou", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:15", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#sokuhou", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#gizyutuzyouhou", "status": 200, "ct": "text/html", "bytes": 54542}
+{"ts": "2025-08-09T20:43:17", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/contents/bojonotebiki.html", "status": 200, "ct": "text/html", "bytes": 56254}
+{"ts": "2025-08-09T20:43:18", "type": "fetch", "url": "https://www.pref.fukuoka.lg.jp/uploaded/attachment/248494.pdf", "status": 200, "ct": "application/pdf", "bytes": 3599289}
+{"ts": "2025-08-09T20:43:18", "type": "pref_end", "pref": "福岡県", "latest_year": 2025, "earliest_year": 2025, "hits_3y": 1, "html_ratio": 0.8, "has_backnumber": 1, "score10": 7, "samples": "https://www.pref.fukuoka.lg.jp/life/8/67/305/;https://www.pref.fukuoka.lg.jp/uploaded/attachment/262950.pdf;https://www.pref.fukuoka.lg.jp/contents/fukuoka-bouzyosyo-yosatu.html#yoho"}

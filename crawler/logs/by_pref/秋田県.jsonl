@@ -1,0 +1,18 @@
+{"ts": "2025-08-09T20:34:42", "type": "pref_start", "pref": "秋田県", "url": "http://www.pref.akita.lg.jp/www/genre/0000000000000/1000000001021/index.html"}
+{"ts": "2025-08-09T20:34:44", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/71561", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 241422}
+{"ts": "2025-08-09T20:34:44", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/8684", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 235530}
+{"ts": "2025-08-09T20:34:45", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/5741", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 231779}
+{"ts": "2025-08-09T20:34:46", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/5742", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 224865}
+{"ts": "2025-08-09T20:34:47", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/71755", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 222227}
+{"ts": "2025-08-09T20:34:47", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/25611", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 231545}
+{"ts": "2025-08-09T20:34:48", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/36793", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 274626}
+{"ts": "2025-08-09T20:34:48", "type": "pref_end", "pref": "秋田県", "latest_year": 2025, "earliest_year": 2000, "hits_3y": 93, "html_ratio": 1.0, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.akita.lg.jp/pages/archive/71561;https://www.pref.akita.lg.jp/pages/archive/8684;https://www.pref.akita.lg.jp/pages/archive/5741"}
+{"ts": "2025-08-09T20:42:05", "type": "pref_start", "pref": "秋田県", "url": "http://www.pref.akita.lg.jp/www/genre/0000000000000/1000000001021/index.html"}
+{"ts": "2025-08-09T20:42:06", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/71561", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 241422}
+{"ts": "2025-08-09T20:42:07", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/8684", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 235530}
+{"ts": "2025-08-09T20:42:08", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/5741", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 231779}
+{"ts": "2025-08-09T20:42:09", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/5742", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 224865}
+{"ts": "2025-08-09T20:42:09", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/71755", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 222227}
+{"ts": "2025-08-09T20:42:10", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/25611", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 231545}
+{"ts": "2025-08-09T20:42:11", "type": "fetch", "url": "https://www.pref.akita.lg.jp/pages/archive/36793", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 274626}
+{"ts": "2025-08-09T20:42:11", "type": "pref_end", "pref": "秋田県", "latest_year": 2025, "earliest_year": 2014, "hits_3y": 5, "html_ratio": 1.0, "has_backnumber": 1, "score10": 8, "samples": "https://www.pref.akita.lg.jp/pages/archive/71561;https://www.pref.akita.lg.jp/pages/archive/8684;https://www.pref.akita.lg.jp/pages/archive/5741"}

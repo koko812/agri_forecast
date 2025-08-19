@@ -1,0 +1,20 @@
+{"ts": "2025-08-09T20:34:48", "type": "pref_start", "pref": "埼玉県", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/"}
+{"ts": "2025-08-09T20:34:49", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/index.html", "status": 200, "ct": "text/html", "bytes": 14908}
+{"ts": "2025-08-09T20:34:50", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/yoho/index.html", "status": 200, "ct": "text/html", "bytes": 16051}
+{"ts": "2025-08-09T20:34:50", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/chuiho/index.html", "status": 200, "ct": "text/html", "bytes": 15342}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/keiho/index.html", "status": 200, "ct": "text/html", "bytes": 15455}
+{"ts": "2025-08-09T20:34:51", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/tokushuho/index.html", "status": 200, "ct": "text/html", "bytes": 19929}
+{"ts": "2025-08-09T20:34:52", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/index.html", "status": 200, "ct": "text/html", "bytes": 15182}
+{"ts": "2025-08-09T20:34:52", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/bojojoho/index.html", "status": 200, "ct": "text/html", "bytes": 14882}
+{"ts": "2025-08-09T20:34:53", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/chosa/index.html", "status": 200, "ct": "text/html", "bytes": 15176}
+{"ts": "2025-08-09T20:34:53", "type": "pref_end", "pref": "埼玉県", "latest_year": 2025, "earliest_year": 2011, "hits_3y": 57, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/index.html;http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/yoho/index.html;http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/chuiho/index.html"}
+{"ts": "2025-08-09T20:42:11", "type": "pref_start", "pref": "埼玉県", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/"}
+{"ts": "2025-08-09T20:42:12", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/index.html", "status": 200, "ct": "text/html", "bytes": 14908}
+{"ts": "2025-08-09T20:42:12", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/yoho/index.html", "status": 200, "ct": "text/html", "bytes": 16051}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/chuiho/index.html", "status": 200, "ct": "text/html", "bytes": 15342}
+{"ts": "2025-08-09T20:42:13", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/keiho/index.html", "status": 200, "ct": "text/html", "bytes": 15455}
+{"ts": "2025-08-09T20:42:14", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/tokushuho/index.html", "status": 200, "ct": "text/html", "bytes": 19929}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/index.html", "status": 200, "ct": "text/html", "bytes": 15182}
+{"ts": "2025-08-09T20:42:15", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/bojojoho/index.html", "status": 200, "ct": "text/html", "bytes": 14882}
+{"ts": "2025-08-09T20:42:16", "type": "fetch", "url": "http://www.pref.saitama.lg.jp/soshiki/b0916/byogaichujoho/chosa/index.html", "status": 200, "ct": "text/html", "bytes": 15176}
+{"ts": "2025-08-09T20:42:16", "type": "pref_end", "pref": "埼玉県", "latest_year": 2025, "earliest_year": 2011, "hits_3y": 57, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/index.html;http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/yoho/index.html;http://www.pref.saitama.lg.jp/soshiki/b0916/yosatsuho/chuiho/index.html"}

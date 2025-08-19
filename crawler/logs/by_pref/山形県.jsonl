@@ -1,0 +1,8 @@
+{"ts": "2025-08-09T20:34:43", "type": "pref_start", "pref": "山形県", "url": "https://agrin.jp/ac/index.html"}
+{"ts": "2025-08-09T20:34:43", "type": "fetch", "url": "https://agrin.jp/theme/byogaichubojosho/index.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 24358}
+{"ts": "2025-08-09T20:34:44", "type": "fetch", "url": "https://agrin.jp/theme/safe_products/yosatsu/index.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 25609}
+{"ts": "2025-08-09T20:34:44", "type": "pref_end", "pref": "山形県", "latest_year": 2025, "earliest_year": 2020, "hits_3y": 25, "html_ratio": 1.0, "has_backnumber": 0, "score10": 8, "samples": "https://agrin.jp/theme/byogaichubojosho/index.html;https://agrin.jp/theme/safe_products/yosatsu/index.html"}
+{"ts": "2025-08-09T20:42:06", "type": "pref_start", "pref": "山形県", "url": "https://agrin.jp/ac/index.html"}
+{"ts": "2025-08-09T20:42:06", "type": "fetch", "url": "https://agrin.jp/theme/byogaichubojosho/index.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 24358}
+{"ts": "2025-08-09T20:42:07", "type": "fetch", "url": "https://agrin.jp/theme/safe_products/yosatsu/index.html", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 25609}
+{"ts": "2025-08-09T20:42:07", "type": "pref_end", "pref": "山形県", "latest_year": 2025, "earliest_year": 2020, "hits_3y": 25, "html_ratio": 1.0, "has_backnumber": 0, "score10": 8, "samples": "https://agrin.jp/theme/byogaichubojosho/index.html;https://agrin.jp/theme/safe_products/yosatsu/index.html"}

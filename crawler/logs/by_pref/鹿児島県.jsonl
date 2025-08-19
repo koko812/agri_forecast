@@ -1,0 +1,8 @@
+{"ts": "2025-08-09T20:35:57", "type": "pref_start", "pref": "鹿児島県", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/index.html"}
+{"ts": "2025-08-09T20:35:58", "type": "fetch", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yohou.html", "status": 200, "ct": "text/html", "bytes": 21044}
+{"ts": "2025-08-09T20:35:59", "type": "fetch", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yosatu.html", "status": 200, "ct": "text/html", "bytes": 20840}
+{"ts": "2025-08-09T20:35:59", "type": "pref_end", "pref": "鹿児島県", "latest_year": 2025, "earliest_year": 2024, "hits_3y": 37, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yohou.html;https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yosatu.html"}
+{"ts": "2025-08-09T20:43:18", "type": "pref_start", "pref": "鹿児島県", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/index.html"}
+{"ts": "2025-08-09T20:43:19", "type": "fetch", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yohou.html", "status": 200, "ct": "text/html", "bytes": 20911}
+{"ts": "2025-08-09T20:43:19", "type": "fetch", "url": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yosatu.html", "status": 200, "ct": "text/html", "bytes": 20706}
+{"ts": "2025-08-09T20:43:19", "type": "pref_end", "pref": "鹿児島県", "latest_year": 2025, "earliest_year": 2024, "hits_3y": 37, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yohou.html;https://www.pref.kagoshima.jp/ag13/kiad/boujosho/yosatu.html"}

@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:18", "type": "pref_start", "pref": "大阪府", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html"}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#yosatsujouhou", "status": 200, "ct": "text/html", "bytes": 29986}
+{"ts": "2025-08-09T20:35:19", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#traptyousa", "status": 200, "ct": "text/html", "bytes": 29986}
+{"ts": "2025-08-09T20:35:19", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html", "status": 200, "ct": "text/html", "bytes": 23699}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/osirase_backnumber.html", "status": 200, "ct": "text/html", "bytes": 15614}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/boujo_shishin.html", "status": 200, "ct": "text/html", "bytes": 35877}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service_mousikomi.html", "status": 200, "ct": "text/html", "bytes": 17390}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service.html", "status": 200, "ct": "text/html", "bytes": 20494}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/line_service.html", "status": 200, "ct": "text/html", "bytes": 16772}
+{"ts": "2025-08-09T20:35:23", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2508yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 143673}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2507yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 289433}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2506yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 138548}
+{"ts": "2025-08-09T20:35:25", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2505yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 128454}
+{"ts": "2025-08-09T20:35:25", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2508_chuuihou02_hantenmaikamemushirui_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 349020}
+{"ts": "2025-08-09T20:35:26", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2505_r7chuuihou01_ootabakoga_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 261979}
+{"ts": "2025-08-09T20:35:27", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/250801_tokusyuhou01_chuugokuamigasahagoromo.pdf", "status": 200, "ct": "application/pdf", "bytes": 878593}
+{"ts": "2025-08-09T20:35:27", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/yohou/yohou_menu.html", "status": 200, "ct": "text/html", "bytes": 16904}
+{"ts": "2025-08-09T20:35:28", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sougouboujokeikaku.html", "status": 200, "ct": "text/html", "bytes": 19113}
+{"ts": "2025-08-09T20:35:28", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r7/r7trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 16646}
+{"ts": "2025-08-09T20:35:29", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r6/r6trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 17322}
+{"ts": "2025-08-09T20:35:29", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r5/r5trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 16539}
+{"ts": "2025-08-09T20:35:29", "type": "pref_end", "pref": "大阪府", "latest_year": 2027, "earliest_year": 2000, "hits_3y": 164, "html_ratio": 0.65, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#yosatsujouhou;https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#traptyousa;https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html"}
+{"ts": "2025-08-09T20:42:40", "type": "pref_start", "pref": "大阪府", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html"}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#yosatsujouhou", "status": 200, "ct": "text/html", "bytes": 29986}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#traptyousa", "status": 200, "ct": "text/html", "bytes": 29986}
+{"ts": "2025-08-09T20:42:42", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html", "status": 200, "ct": "text/html", "bytes": 23699}
+{"ts": "2025-08-09T20:42:43", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/osirase_backnumber.html", "status": 200, "ct": "text/html", "bytes": 15614}
+{"ts": "2025-08-09T20:42:43", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/boujo_shishin.html", "status": 200, "ct": "text/html", "bytes": 35877}
+{"ts": "2025-08-09T20:42:44", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service_mousikomi.html", "status": 200, "ct": "text/html", "bytes": 17390}
+{"ts": "2025-08-09T20:42:44", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service.html", "status": 200, "ct": "text/html", "bytes": 20494}
+{"ts": "2025-08-09T20:42:45", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/line_service.html", "status": 200, "ct": "text/html", "bytes": 16772}
+{"ts": "2025-08-09T20:42:45", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2508yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 143673}
+{"ts": "2025-08-09T20:42:46", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2507yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 289433}
+{"ts": "2025-08-09T20:42:47", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2506yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 138548}
+{"ts": "2025-08-09T20:42:47", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2505yoho_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 128454}
+{"ts": "2025-08-09T20:42:48", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2508_chuuihou02_hantenmaikamemushirui_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 349020}
+{"ts": "2025-08-09T20:42:49", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/2505_r7chuuihou01_ootabakoga_soshin.pdf", "status": 200, "ct": "application/pdf", "bytes": 261979}
+{"ts": "2025-08-09T20:42:49", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/documents/84527/250801_tokusyuhou01_chuugokuamigasahagoromo.pdf", "status": 200, "ct": "application/pdf", "bytes": 878593}
+{"ts": "2025-08-09T20:42:50", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/yohou/yohou_menu.html", "status": 200, "ct": "text/html", "bytes": 16904}
+{"ts": "2025-08-09T20:42:50", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sougouboujokeikaku.html", "status": 200, "ct": "text/html", "bytes": 19113}
+{"ts": "2025-08-09T20:42:51", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r7/r7trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 16646}
+{"ts": "2025-08-09T20:42:52", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r6/r6trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 17322}
+{"ts": "2025-08-09T20:42:52", "type": "fetch", "url": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r5/r5trap_tyousa.html", "status": 200, "ct": "text/html", "bytes": 16539}
+{"ts": "2025-08-09T20:42:52", "type": "pref_end", "pref": "大阪府", "latest_year": 2025, "earliest_year": 2000, "hits_3y": 160, "html_ratio": 0.65, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#yosatsujouhou;https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#traptyousa;https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html"}

@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:35:19", "type": "pref_start", "pref": "兵庫県", "url": "http://bojo.hyogo-nourinsuisangc.jp/"}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 38312}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r　", "status": 404, "ct": "text/html; charset=utf-8", "bytes": 32165}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r6", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40418}
+{"ts": "2025-08-09T20:35:23", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r51", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40349}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r4", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 37344}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r3", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 38691}
+{"ts": "2025-08-09T20:35:25", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r2", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40541}
+{"ts": "2025-08-09T20:35:26", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r1", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 41888}
+{"ts": "2025-08-09T20:35:27", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/h30", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 39999}
+{"ts": "2025-08-09T20:35:28", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r5", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40349}
+{"ts": "2025-08-09T20:35:29", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1426", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35874}
+{"ts": "2025-08-09T20:35:29", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1416", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35520}
+{"ts": "2025-08-09T20:35:30", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1413", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 33457}
+{"ts": "2025-08-09T20:35:31", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1403", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35812}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1394", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35798}
+{"ts": "2025-08-09T20:35:32", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1390", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35874}
+{"ts": "2025-08-09T20:35:33", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1384", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35856}
+{"ts": "2025-08-09T20:35:34", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1380", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35520}
+{"ts": "2025-08-09T20:35:35", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1368", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35519}
+{"ts": "2025-08-09T20:35:36", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1362", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35884}
+{"ts": "2025-08-09T20:35:36", "type": "pref_end", "pref": "兵庫県", "latest_year": 2025, "earliest_year": 2018, "hits_3y": 206, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "https://bojo.hyogo-nourinsuisangc.jp/forecast;https://bojo.hyogo-nourinsuisangc.jp/forecast/r6;https://bojo.hyogo-nourinsuisangc.jp/forecast/r51"}
+{"ts": "2025-08-09T20:42:41", "type": "pref_start", "pref": "兵庫県", "url": "http://bojo.hyogo-nourinsuisangc.jp/"}
+{"ts": "2025-08-09T20:42:43", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 38312}
+{"ts": "2025-08-09T20:42:44", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r　", "status": 404, "ct": "text/html; charset=utf-8", "bytes": 32165}
+{"ts": "2025-08-09T20:42:45", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r6", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40418}
+{"ts": "2025-08-09T20:42:45", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r51", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40349}
+{"ts": "2025-08-09T20:42:46", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r4", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 37344}
+{"ts": "2025-08-09T20:42:47", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r3", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 38691}
+{"ts": "2025-08-09T20:42:48", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r2", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40541}
+{"ts": "2025-08-09T20:42:49", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r1", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 41888}
+{"ts": "2025-08-09T20:42:49", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/h30", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 39999}
+{"ts": "2025-08-09T20:42:50", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/forecast/r5", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 40349}
+{"ts": "2025-08-09T20:42:51", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1426", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35874}
+{"ts": "2025-08-09T20:42:52", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1416", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35520}
+{"ts": "2025-08-09T20:42:53", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1413", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 33457}
+{"ts": "2025-08-09T20:42:54", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1403", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35812}
+{"ts": "2025-08-09T20:42:54", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1394", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35798}
+{"ts": "2025-08-09T20:42:55", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1390", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35874}
+{"ts": "2025-08-09T20:42:56", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1384", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35856}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1380", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35520}
+{"ts": "2025-08-09T20:42:57", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1368", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35519}
+{"ts": "2025-08-09T20:42:58", "type": "fetch", "url": "https://bojo.hyogo-nourinsuisangc.jp/archives/1362", "status": 200, "ct": "text/html; charset=utf-8", "bytes": 35884}
+{"ts": "2025-08-09T20:42:58", "type": "pref_end", "pref": "兵庫県", "latest_year": 2025, "earliest_year": 2018, "hits_3y": 206, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "https://bojo.hyogo-nourinsuisangc.jp/forecast;https://bojo.hyogo-nourinsuisangc.jp/forecast/r6;https://bojo.hyogo-nourinsuisangc.jp/forecast/r51"}

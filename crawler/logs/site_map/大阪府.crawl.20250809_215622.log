@@ -1,0 +1,1660 @@
+2025-08-09 21:56:22,802 [INFO] Log file: logs/site_map/大阪府.crawl.20250809_215622.log
+2025-08-09 21:56:22,802 [INFO] START 大阪府 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html depth<= 3 pages<= 120
+2025-08-09 21:56:22,802 [INFO] [1/1] GET depth=0 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html
+2025-08-09 21:56:23,521 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:23,544 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:23,544 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:23,545 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:23,545 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:23,545 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:23,545 [INFO]    [link] -> depth=1 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:23,546 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:23,546 [INFO] [2/95] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:23,924 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:23,947 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:23,947 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:23,947 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:23,948 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:23,949 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:23,949 [INFO] [3/189] GET depth=1 url=https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:24,419 [INFO]  -> status=200 ct=text/html kind=html bytes=13423 err=
+2025-08-09 21:56:24,434 [INFO]  parse html: title='文字サイズ・色合い変更／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=38
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html#tmp_honbun
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:24,434 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:24,435 [INFO]    ... more 28 links omitted ...
+2025-08-09 21:56:24,435 [INFO] [4/207] GET depth=1 url=https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:24,797 [INFO]  -> status=200 ct=text/html kind=html bytes=39258 err=
+2025-08-09 21:56:24,821 [INFO]  parse html: title='大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=90
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html#tmp_honbun
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:24,821 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/kinkyu.xml
+2025-08-09 21:56:24,822 [INFO]    ... more 80 links omitted ...
+2025-08-09 21:56:24,822 [INFO] [5/263] GET depth=1 url=https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:25,276 [INFO]  -> status=200 ct=text/html kind=html bytes=10285 err=
+2025-08-09 21:56:25,286 [INFO]  parse html: title='防災・緊急情報一覧／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=33
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html#tmp_honbun
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:25,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:25,286 [INFO]    ... more 23 links omitted ...
+2025-08-09 21:56:25,286 [INFO] [6/282] GET depth=1 url=https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:25,658 [INFO]  -> status=200 ct=text/html kind=html bytes=17356 err=
+2025-08-09 21:56:25,675 [INFO]  parse html: title='分類から探す／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=108
+2025-08-09 21:56:25,675 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html#tmp_honbun
+2025-08-09 21:56:25,675 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:25,676 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:25,677 [INFO]    ... more 98 links omitted ...
+2025-08-09 21:56:25,677 [INFO] [7/372] GET depth=1 url=https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:26,057 [INFO]  -> status=200 ct=text/html kind=html bytes=15654 err=
+2025-08-09 21:56:26,071 [INFO]  parse html: title='目的から探す／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=48
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html#tmp_honbun
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:26,072 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:26,072 [INFO]    ... more 38 links omitted ...
+2025-08-09 21:56:26,072 [INFO] [8/406] GET depth=1 url=https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:26,547 [INFO]  -> status=200 ct=text/html kind=html bytes=58131 err=
+2025-08-09 21:56:26,580 [INFO]  parse html: title='組織から探す／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=353
+2025-08-09 21:56:26,580 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html#tmp_honbun
+2025-08-09 21:56:26,580 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:26,581 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:26,583 [INFO]    ... more 343 links omitted ...
+2025-08-09 21:56:26,583 [INFO] [9/746] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:27,055 [INFO]  -> status=200 ct=text/html kind=html bytes=20921 err=
+2025-08-09 21:56:27,069 [INFO]  parse html: title='はじめての方へ（ページの探し方、文字の大きさの調整）／大阪府（おおさかふ）ホームページ [Osaka Prefectur' links=53
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html#tmp_honbun
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:27,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:27,070 [INFO]    ... more 43 links omitted ...
+2025-08-09 21:56:27,070 [INFO] [10/786] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/index.html
+2025-08-09 21:56:27,589 [INFO]  -> status=200 ct=text/html kind=html bytes=25748 err=
+2025-08-09 21:56:27,613 [INFO]  parse html: title='しごと・産業／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=144
+2025-08-09 21:56:27,613 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/index.html#tmp_honbun
+2025-08-09 21:56:27,613 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:27,613 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:27,614 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:27,615 [INFO]    ... more 134 links omitted ...
+2025-08-09 21:56:27,615 [INFO] [11/918] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/index.html
+2025-08-09 21:56:28,110 [INFO]  -> status=200 ct=text/html kind=html bytes=39990 err=
+2025-08-09 21:56:28,139 [INFO]  parse html: title='産業情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=256
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/index.html#tmp_honbun
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:28,139 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:28,141 [INFO]    ... more 246 links omitted ...
+2025-08-09 21:56:28,141 [INFO] [12/1162] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/index.html
+2025-08-09 21:56:28,644 [INFO]  -> status=200 ct=text/html kind=html bytes=15859 err=
+2025-08-09 21:56:28,662 [INFO]  parse html: title='農業／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=84
+2025-08-09 21:56:28,662 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/index.html#tmp_honbun
+2025-08-09 21:56:28,662 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:28,662 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:28,662 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:28,662 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:28,663 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:28,663 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:28,663 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:28,663 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:28,663 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:28,663 [INFO]    ... more 74 links omitted ...
+2025-08-09 21:56:28,663 [INFO] [13/1234] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#yosatsujouhou
+2025-08-09 21:56:29,036 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:29,058 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:29,058 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,059 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:29,059 [INFO] [14/1326] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#mailservice
+2025-08-09 21:56:29,436 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:29,454 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:29,454 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:29,454 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:29,455 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,456 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:29,456 [INFO] [15/1417] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#traptyousa
+2025-08-09 21:56:29,835 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:29,858 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:29,858 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:29,860 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:29,860 [INFO] [16/1509] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#boujoshisin
+2025-08-09 21:56:30,242 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:56:30,263 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:30,263 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:56:30,263 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:30,264 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:30,265 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:30,265 [INFO] [17/1599] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html
+2025-08-09 21:56:30,726 [INFO]  -> status=200 ct=text/html kind=html bytes=23699 err=
+2025-08-09 21:56:30,746 [INFO]  parse html: title='病害虫防除カラー技術資料／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=83
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/color_gijutsushiryou.html#tmp_honbun
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:30,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:30,747 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:30,747 [INFO]    ... more 73 links omitted ...
+2025-08-09 21:56:30,747 [INFO] [18/1641] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/osirase_backnumber.html
+2025-08-09 21:56:31,207 [INFO]  -> status=200 ct=text/html kind=html bytes=15614 err=
+2025-08-09 21:56:31,224 [INFO]  parse html: title='これまでのお知らせ／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=57
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/osirase_backnumber.html#tmp_honbun
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:31,224 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:31,225 [INFO]    ... more 47 links omitted ...
+2025-08-09 21:56:31,225 [INFO] [19/1686] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/boujo_shishin.html
+2025-08-09 21:56:31,682 [INFO]  -> status=200 ct=text/html kind=html bytes=35877 err=
+2025-08-09 21:56:31,708 [INFO]  parse html: title='農作物病害虫防除指針／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=173
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/boujo_shishin.html#tmp_honbun
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:31,708 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:31,709 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:31,710 [INFO]    ... more 163 links omitted ...
+2025-08-09 21:56:31,710 [INFO] [20/1728] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service_mousikomi.html
+2025-08-09 21:56:32,197 [INFO]  -> status=200 ct=text/html kind=html bytes=17390 err=
+2025-08-09 21:56:32,212 [INFO]  parse html: title='病害虫発生・防除情報メールサービス申込み／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gov' links=40
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service_mousikomi.html#tmp_honbun
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:32,213 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:32,213 [INFO]    ... more 30 links omitted ...
+2025-08-09 21:56:32,213 [INFO] [21/1754] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service.html
+2025-08-09 21:56:32,684 [INFO]  -> status=200 ct=text/html kind=html bytes=20494 err=
+2025-08-09 21:56:32,705 [INFO]  parse html: title='病害虫発生・防除情報メールサービス／大阪府（おおさかふ）ホームページ [Osaka Prefectural Govern' links=107
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/mail_service.html#tmp_honbun
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:32,705 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:32,706 [INFO]    ... more 97 links omitted ...
+2025-08-09 21:56:32,707 [INFO] [22/1797] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/line_service.html
+2025-08-09 21:56:33,178 [INFO]  -> status=200 ct=text/html kind=html bytes=16772 err=
+2025-08-09 21:56:33,195 [INFO]  parse html: title='大阪府病害虫防除グループ公式LINEについて／大阪府（おおさかふ）ホームページ [Osaka Prefectural G' links=59
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/line_service.html#tmp_honbun
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:33,195 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:33,196 [INFO]    ... more 49 links omitted ...
+2025-08-09 21:56:33,196 [INFO] [23/1842] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/yohou/yohou_menu.html
+2025-08-09 21:56:33,663 [INFO]  -> status=200 ct=text/html kind=html bytes=16904 err=
+2025-08-09 21:56:33,680 [INFO]  parse html: title='病害虫発生予察情報バックナンバー／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governm' links=71
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/yohou/yohou_menu.html#tmp_honbun
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:33,681 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:33,682 [INFO]    ... more 61 links omitted ...
+2025-08-09 21:56:33,682 [INFO] [24/1901] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sougouboujokeikaku.html
+2025-08-09 21:56:34,140 [INFO]  -> status=200 ct=text/html kind=html bytes=19113 err=
+2025-08-09 21:56:34,157 [INFO]  parse html: title='大阪府農作物病害虫総合防除計画について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gove' links=64
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sougouboujokeikaku.html#tmp_honbun
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:34,157 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:34,158 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:34,158 [INFO]    ... more 54 links omitted ...
+2025-08-09 21:56:34,158 [INFO] [25/1943] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r7/r7trap_tyousa.html
+2025-08-09 21:56:34,615 [INFO]  -> status=200 ct=text/html kind=html bytes=16646 err=
+2025-08-09 21:56:34,632 [INFO]  parse html: title='トラップ調査（令和7年度）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=61
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r7/r7trap_tyousa.html#tmp_honbun
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:34,633 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:34,634 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:34,634 [INFO] [26/1985] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r6/r6trap_tyousa.html
+2025-08-09 21:56:35,094 [INFO]  -> status=200 ct=text/html kind=html bytes=17322 err=
+2025-08-09 21:56:35,109 [INFO]  parse html: title='トラップ調査（令和6年度）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=61
+2025-08-09 21:56:35,109 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r6/r6trap_tyousa.html#tmp_honbun
+2025-08-09 21:56:35,109 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:35,109 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:35,109 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:35,110 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:35,110 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:35,110 [INFO] [27/2034] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r5/r5trap_tyousa.html
+2025-08-09 21:56:35,593 [INFO]  -> status=200 ct=text/html kind=html bytes=16539 err=
+2025-08-09 21:56:35,606 [INFO]  parse html: title='トラップ調査（令和5年度）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=61
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r5/r5trap_tyousa.html#tmp_honbun
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:35,606 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:35,607 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:35,607 [INFO] [28/2083] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r4/r4trap_tyousa.html
+2025-08-09 21:56:36,102 [INFO]  -> status=200 ct=text/html kind=html bytes=16539 err=
+2025-08-09 21:56:36,118 [INFO]  parse html: title='トラップ調査（令和4年度）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=61
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_tyousa/r4/r4trap_tyousa.html#tmp_honbun
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:36,118 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:36,119 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:36,119 [INFO] [29/2132] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_backnumber.html
+2025-08-09 21:56:36,587 [INFO]  -> status=200 ct=text/html kind=html bytes=23680 err=
+2025-08-09 21:56:36,602 [INFO]  parse html: title='トラップ調査結果バックナンバー／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governme' links=111
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/trap_backnumber.html#tmp_honbun
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:36,602 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:36,603 [INFO]    ... more 101 links omitted ...
+2025-08-09 21:56:36,603 [INFO] [30/2173] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/nouyaku.html
+2025-08-09 21:56:37,055 [INFO]  -> status=200 ct=text/html kind=html bytes=18148 err=
+2025-08-09 21:56:37,069 [INFO]  parse html: title='農薬に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=61
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/nouyaku.html#tmp_honbun
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:37,069 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:37,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:37,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:37,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:37,070 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:37,070 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:37,070 [INFO] [31/2219] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/kasyoubyou.html
+2025-08-09 21:56:37,535 [INFO]  -> status=200 ct=text/html kind=html bytes=17728 err=
+2025-08-09 21:56:37,552 [INFO]  parse html: title='火傷病(かしょうびょう)に関する情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gover' links=57
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/kasyoubyou.html#tmp_honbun
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:37,552 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:37,553 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:37,553 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:37,553 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:37,553 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:37,553 [INFO]    ... more 47 links omitted ...
+2025-08-09 21:56:37,553 [INFO] [32/2261] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/ppv.html
+2025-08-09 21:56:38,022 [INFO]  -> status=200 ct=text/html kind=html bytes=28462 err=
+2025-08-09 21:56:38,043 [INFO]  parse html: title='ウメ輪紋ウイルス(PPV)に関する情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gove' links=61
+2025-08-09 21:56:38,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/ppv.html#tmp_honbun
+2025-08-09 21:56:38,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:38,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:38,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:38,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:38,044 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:56:38,044 [INFO] [33/2305] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota.html
+2025-08-09 21:56:38,515 [INFO]  -> status=200 ct=text/html kind=html bytes=15235 err=
+2025-08-09 21:56:38,530 [INFO]  parse html: title='その他の防除技術資料／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=55
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota.html#tmp_honbun
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:38,530 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:38,531 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:38,531 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:38,531 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:38,531 [INFO]    ... more 45 links omitted ...
+2025-08-09 21:56:38,531 [INFO] [34/2348] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/link.html
+2025-08-09 21:56:39,008 [INFO]  -> status=200 ct=text/html kind=html bytes=25246 err=
+2025-08-09 21:56:39,027 [INFO]  parse html: title='病害虫防除に関するリンク／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:56:39,027 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/sonota/link.html#tmp_honbun
+2025-08-09 21:56:39,027 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:39,027 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:39,027 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:39,027 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:39,028 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:39,028 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:39,028 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:39,028 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:39,028 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:39,029 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:56:39,029 [INFO] [35/2396] GET depth=1 url=https://www.pref.osaka.lg.jp/soshikikarasagasu/nosei/index.html
+2025-08-09 21:56:39,499 [INFO]  -> status=200 ct=text/html kind=html bytes=18017 err=
+2025-08-09 21:56:39,518 [INFO]  parse html: title='推進課／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=41
+2025-08-09 21:56:39,518 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/nosei/index.html#tmp_honbun
+2025-08-09 21:56:39,518 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:39,518 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:39,518 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:39,518 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:39,519 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:39,519 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:39,519 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:39,519 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:39,519 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:39,519 [INFO]    ... more 31 links omitted ...
+2025-08-09 21:56:39,519 [INFO] [36/2422] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/nougyou-covid19/index.html
+2025-08-09 21:56:39,996 [INFO]  -> status=200 ct=text/html kind=html bytes=17948 err=
+2025-08-09 21:56:40,012 [INFO]  parse html: title='新型コロナウイルス感染症に関する情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gover' links=72
+2025-08-09 21:56:40,012 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/nougyou-covid19/index.html#tmp_honbun
+2025-08-09 21:56:40,012 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:40,013 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,014 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:40,014 [INFO] [37/2482] GET depth=1 url=https://www.pref.osaka.lg.jp/o120010/kannosomu/nourinsuisan/index.html
+2025-08-09 21:56:40,487 [INFO]  -> status=200 ct=text/html kind=html bytes=21694 err=
+2025-08-09 21:56:40,506 [INFO]  parse html: title='大阪府の農林水産業／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=93
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120010/kannosomu/nourinsuisan/index.html#tmp_honbun
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:40,506 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,507 [INFO]    ... more 83 links omitted ...
+2025-08-09 21:56:40,507 [INFO] [38/2544] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/seisyansyasapo-to/kaju-keikaku.html
+2025-08-09 21:56:40,970 [INFO]  -> status=200 ct=text/html kind=html bytes=18384 err=
+2025-08-09 21:56:40,986 [INFO]  parse html: title='大阪府果樹農業振興計画／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=73
+2025-08-09 21:56:40,986 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/seisyansyasapo-to/kaju-keikaku.html#tmp_honbun
+2025-08-09 21:56:40,986 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:40,986 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:40,987 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:40,987 [INFO]    ... more 63 links omitted ...
+2025-08-09 21:56:40,987 [INFO] [39/2603] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/innovationsuishin/index.html
+2025-08-09 21:56:41,457 [INFO]  -> status=200 ct=text/html kind=html bytes=16529 err=
+2025-08-09 21:56:41,475 [INFO]  parse html: title='大阪農業イノベーション推進事業／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governme' links=82
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/innovationsuishin/index.html#tmp_honbun
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:41,475 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:41,476 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:41,476 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:41,476 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:41,476 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:41,476 [INFO]    ... more 72 links omitted ...
+2025-08-09 21:56:41,476 [INFO] [40/2673] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/smartnougyounosuishin/index.html
+2025-08-09 21:56:41,952 [INFO]  -> status=200 ct=text/html kind=html bytes=15548 err=
+2025-08-09 21:56:41,968 [INFO]  parse html: title='スマート農業の推進／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=76
+2025-08-09 21:56:41,968 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/smartnougyounosuishin/index.html#tmp_honbun
+2025-08-09 21:56:41,968 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:41,968 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:41,968 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:41,968 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:41,969 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:41,969 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:41,969 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:41,969 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:41,969 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:41,969 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:41,969 [INFO] [41/2737] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/shuunou/index.html
+2025-08-09 21:56:42,436 [INFO]  -> status=200 ct=text/html kind=html bytes=15350 err=
+2025-08-09 21:56:42,451 [INFO]  parse html: title='就農・援農情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=77
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/shuunou/index.html#tmp_honbun
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:42,451 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:42,452 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:42,452 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:42,452 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:42,452 [INFO]    ... more 67 links omitted ...
+2025-08-09 21:56:42,452 [INFO] [42/2802] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/seisanshasupport/index.html
+2025-08-09 21:56:42,916 [INFO]  -> status=200 ct=text/html kind=html bytes=18505 err=
+2025-08-09 21:56:42,935 [INFO]  parse html: title='生産者サポート情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=101
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/seisanshasupport/index.html#tmp_honbun
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:42,935 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:42,936 [INFO]    ... more 91 links omitted ...
+2025-08-09 21:56:42,936 [INFO] [43/2891] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/yuushi/index.html
+2025-08-09 21:56:43,389 [INFO]  -> status=200 ct=text/html kind=html bytes=16187 err=
+2025-08-09 21:56:43,407 [INFO]  parse html: title='農林漁業者向け制度融資／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=84
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/yuushi/index.html#tmp_honbun
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:43,407 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:43,408 [INFO]    ... more 74 links omitted ...
+2025-08-09 21:56:43,408 [INFO] [44/2963] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/kokkokoufukin/index.html
+2025-08-09 21:56:43,878 [INFO]  -> status=200 ct=text/html kind=html bytes=14796 err=
+2025-08-09 21:56:43,893 [INFO]  parse html: title='国庫交付金関連事業／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=72
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/kokkokoufukin/index.html#tmp_honbun
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:43,893 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:43,894 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:43,894 [INFO] [45/3023] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/originalbudou/index.html
+2025-08-09 21:56:44,355 [INFO]  -> status=200 ct=text/html kind=html bytes=15405 err=
+2025-08-09 21:56:44,364 [INFO]  parse html: title='大阪オリジナルぶどう／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=76
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/originalbudou/index.html#tmp_honbun
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:44,364 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:44,364 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:44,364 [INFO] [46/3087] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/nounishitashimu/index.html
+2025-08-09 21:56:44,818 [INFO]  -> status=200 ct=text/html kind=html bytes=15487 err=
+2025-08-09 21:56:44,823 [INFO]  parse html: title='農に親しむ施設／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=77
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/nounishitashimu/index.html#tmp_honbun
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:44,823 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:44,824 [INFO]    ... more 67 links omitted ...
+2025-08-09 21:56:44,824 [INFO] [47/3152] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/nougyoukouen/index.html
+2025-08-09 21:56:45,288 [INFO]  -> status=200 ct=text/html kind=html bytes=15257 err=
+2025-08-09 21:56:45,302 [INFO]  parse html: title='大阪府立農業公園／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=74
+2025-08-09 21:56:45,302 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/nougyoukouen/index.html#tmp_honbun
+2025-08-09 21:56:45,302 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:45,303 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:45,303 [INFO]    ... more 64 links omitted ...
+2025-08-09 21:56:45,303 [INFO] [48/3214] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/noukuukanzukuri/index.html
+2025-08-09 21:56:45,756 [INFO]  -> status=200 ct=text/html kind=html bytes=15872 err=
+2025-08-09 21:56:45,775 [INFO]  parse html: title='おおさか農空間づくりプラットフォーム／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gover' links=80
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/noukuukanzukuri/index.html#tmp_honbun
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:45,775 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:45,776 [INFO]    ... more 70 links omitted ...
+2025-08-09 21:56:45,776 [INFO] [49/3282] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/mamorukatsudou/index.html
+2025-08-09 21:56:46,271 [INFO]  -> status=200 ct=text/html kind=html bytes=15108 err=
+2025-08-09 21:56:46,285 [INFO]  parse html: title='農空間を守る活動状況／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=74
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/mamorukatsudou/index.html#tmp_honbun
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:46,286 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:46,287 [INFO]    ... more 64 links omitted ...
+2025-08-09 21:56:46,287 [INFO] [50/3344] GET depth=1 url=https://www.pref.osaka.lg.jp/o120100/nosei_seibi/saigaikiroku/index.html
+2025-08-09 21:56:46,742 [INFO]  -> status=200 ct=text/html kind=html bytes=25750 err=
+2025-08-09 21:56:46,764 [INFO]  parse html: title='農地・農業用施設災害に関する記録室／大阪府（おおさかふ）ホームページ [Osaka Prefectural Govern' links=72
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120100/nosei_seibi/saigaikiroku/index.html#tmp_honbun
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:46,764 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:46,765 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:46,765 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:46,765 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:46,765 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:46,765 [INFO] [51/3404] GET depth=1 url=https://www.pref.osaka.lg.jp/o120100/nosei_seibi/saigaifukkyuseido/index.html
+2025-08-09 21:56:47,263 [INFO]  -> status=200 ct=text/html kind=html bytes=20595 err=
+2025-08-09 21:56:47,298 [INFO]  parse html: title='農地・農業用施設の災害復旧事業制度／大阪府（おおさかふ）ホームページ [Osaka Prefectural Govern' links=72
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120100/nosei_seibi/saigaifukkyuseido/index.html#tmp_honbun
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:47,298 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:47,298 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:47,299 [INFO] [52/3463] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/hozenchiikiseido/index.html
+2025-08-09 21:56:47,763 [INFO]  -> status=200 ct=text/html kind=html bytes=14699 err=
+2025-08-09 21:56:47,777 [INFO]  parse html: title='農空間保全地域制度／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=71
+2025-08-09 21:56:47,777 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/hozenchiikiseido/index.html#tmp_honbun
+2025-08-09 21:56:47,777 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:47,777 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:47,778 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:47,778 [INFO]    ... more 61 links omitted ...
+2025-08-09 21:56:47,778 [INFO] [53/3522] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/gensaiactionplan/index.html
+2025-08-09 21:56:48,245 [INFO]  -> status=200 ct=text/html kind=html bytes=15358 err=
+2025-08-09 21:56:48,260 [INFO]  parse html: title='大阪府ため池防災・減災アクションプラン／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gove' links=76
+2025-08-09 21:56:48,260 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/gensaiactionplan/index.html#tmp_honbun
+2025-08-09 21:56:48,260 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:48,261 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:48,261 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:48,261 [INFO] [54/3586] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/innovation/index.html
+2025-08-09 21:56:48,730 [INFO]  -> status=200 ct=text/html kind=html bytes=15224 err=
+2025-08-09 21:56:48,745 [INFO]  parse html: title='農山漁村発イノベーションの取組み／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governm' links=74
+2025-08-09 21:56:48,745 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/innovation/index.html#tmp_honbun
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:48,746 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:48,746 [INFO]    ... more 64 links omitted ...
+2025-08-09 21:56:48,746 [INFO] [55/3648] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/haccp/index.html
+2025-08-09 21:56:49,204 [INFO]  -> status=200 ct=text/html kind=html bytes=15216 err=
+2025-08-09 21:56:49,219 [INFO]  parse html: title='食品産業の輸出向けHACCP等対応施設整備事業／大阪府（おおさかふ）ホームページ [Osaka Prefectural ' links=73
+2025-08-09 21:56:49,219 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/haccp/index.html#tmp_honbun
+2025-08-09 21:56:49,219 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:49,219 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:49,220 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:49,220 [INFO]    ... more 63 links omitted ...
+2025-08-09 21:56:49,220 [INFO] [56/3709] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/ja/index.html
+2025-08-09 21:56:49,678 [INFO]  -> status=200 ct=text/html kind=html bytes=15249 err=
+2025-08-09 21:56:49,695 [INFO]  parse html: title='農業協同組合、農事組合法人、農業共済組合／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gov' links=75
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/ja/index.html#tmp_honbun
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:49,696 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:49,697 [INFO]    ... more 65 links omitted ...
+2025-08-09 21:56:49,697 [INFO] [57/3772] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/sonohoka/index.html
+2025-08-09 21:56:50,165 [INFO]  -> status=200 ct=text/html kind=html bytes=16408 err=
+2025-08-09 21:56:50,181 [INFO]  parse html: title='その他の取り組み／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=85
+2025-08-09 21:56:50,181 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/sonohoka/index.html#tmp_honbun
+2025-08-09 21:56:50,181 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:50,181 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:50,182 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:50,183 [INFO]    ... more 75 links omitted ...
+2025-08-09 21:56:50,183 [INFO] [58/3845] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/shisakukeikaku/index.html
+2025-08-09 21:56:50,632 [INFO]  -> status=200 ct=text/html kind=html bytes=15394 err=
+2025-08-09 21:56:50,647 [INFO]  parse html: title='施策・計画／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=76
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/shisakukeikaku/index.html#tmp_honbun
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:50,647 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:50,648 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:50,648 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:50,648 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:50,648 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:50,648 [INFO] [59/3909] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/hokubu/index.html
+2025-08-09 21:56:51,115 [INFO]  -> status=200 ct=text/html kind=html bytes=15706 err=
+2025-08-09 21:56:51,129 [INFO]  parse html: title='北部農と緑の総合事務所／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=79
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/hokubu/index.html#tmp_honbun
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:51,130 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:51,131 [INFO]    ... more 69 links omitted ...
+2025-08-09 21:56:51,131 [INFO] [60/3976] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/chuubu/index.html
+2025-08-09 21:56:51,615 [INFO]  -> status=200 ct=text/html kind=html bytes=15469 err=
+2025-08-09 21:56:51,631 [INFO]  parse html: title='中部農と緑の総合事務所／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=77
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/chuubu/index.html#tmp_honbun
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:51,631 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:51,632 [INFO]    ... more 67 links omitted ...
+2025-08-09 21:56:51,632 [INFO] [61/4041] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/minamikawachi/index.html
+2025-08-09 21:56:52,093 [INFO]  -> status=200 ct=text/html kind=html bytes=15430 err=
+2025-08-09 21:56:52,104 [INFO]  parse html: title='南河内農と緑の総合事務所／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=76
+2025-08-09 21:56:52,104 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/minamikawachi/index.html#tmp_honbun
+2025-08-09 21:56:52,104 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:52,104 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:52,104 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:52,105 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:52,105 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:52,105 [INFO] [62/4105] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/senshuu/index.html
+2025-08-09 21:56:52,570 [INFO]  -> status=200 ct=text/html kind=html bytes=15780 err=
+2025-08-09 21:56:52,586 [INFO]  parse html: title='泉州農と緑の総合事務所／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=79
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/senshuu/index.html#tmp_honbun
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:52,587 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:52,588 [INFO]    ... more 69 links omitted ...
+2025-08-09 21:56:52,588 [INFO] [63/4172] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/sougoukenkyuujo/index.html
+2025-08-09 21:56:53,066 [INFO]  -> status=200 ct=text/html kind=html bytes=15865 err=
+2025-08-09 21:56:53,076 [INFO]  parse html: title='地方独立行政法人大阪府立環境農林水産総合研究所／大阪府（おおさかふ）ホームページ [Osaka Prefectural ' links=77
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/sougoukenkyuujo/index.html#tmp_honbun
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:53,076 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:53,077 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:53,077 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:53,077 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:53,077 [INFO]    ... more 67 links omitted ...
+2025-08-09 21:56:53,077 [INFO] [64/4237] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/dantaishoukai/index.html
+2025-08-09 21:56:53,549 [INFO]  -> status=200 ct=text/html kind=html bytes=14920 err=
+2025-08-09 21:56:53,567 [INFO]  parse html: title='農業者団体等の紹介／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=73
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/dantaishoukai/index.html#tmp_honbun
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:53,568 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:53,568 [INFO]    ... more 63 links omitted ...
+2025-08-09 21:56:53,568 [INFO] [65/4298] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei_seibi/cyukankanri/sokushinkeikaku.html
+2025-08-09 21:56:54,043 [INFO]  -> status=200 ct=text/html kind=html bytes=19706 err=
+2025-08-09 21:56:54,060 [INFO]  parse html: title='農用地利用集積等促進計画を公告した旨の証明について／大阪府（おおさかふ）ホームページ [Osaka Prefectura' links=74
+2025-08-09 21:56:54,060 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei_seibi/cyukankanri/sokushinkeikaku.html#tmp_honbun
+2025-08-09 21:56:54,060 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:54,060 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:54,061 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:54,061 [INFO]    ... more 64 links omitted ...
+2025-08-09 21:56:54,061 [INFO] [66/4359] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/chisekichousa/index.html
+2025-08-09 21:56:54,528 [INFO]  -> status=200 ct=text/html kind=html bytes=15615 err=
+2025-08-09 21:56:54,542 [INFO]  parse html: title='地籍調査であなたの土地が明確になる／大阪府（おおさかふ）ホームページ [Osaka Prefectural Govern' links=79
+2025-08-09 21:56:54,542 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/chisekichousa/index.html#tmp_honbun
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:54,543 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:54,544 [INFO]    ... more 69 links omitted ...
+2025-08-09 21:56:54,544 [INFO] [67/4426] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/byogaichu/byogaichu/index.html
+2025-08-09 21:56:55,027 [INFO]  -> status=200 ct=text/html kind=html bytes=17775 err=
+2025-08-09 21:56:55,043 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=72
+2025-08-09 21:56:55,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/byogaichu/byogaichu/index.html#tmp_honbun
+2025-08-09 21:56:55,043 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:55,044 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:55,044 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:55,044 [INFO] [68/4486] GET depth=1 url=https://www.pref.osaka.lg.jp/o120100/nosei_seibi/kairyoku/index.html
+2025-08-09 21:56:55,507 [INFO]  -> status=200 ct=text/html kind=html bytes=30112 err=
+2025-08-09 21:56:55,524 [INFO]  parse html: title='土地改良区の手続き／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=117
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120100/nosei_seibi/kairyoku/index.html#tmp_honbun
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:55,524 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:55,525 [INFO]    ... more 107 links omitted ...
+2025-08-09 21:56:55,525 [INFO] [69/4567] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/osakaflower/index.html
+2025-08-09 21:56:55,990 [INFO]  -> status=200 ct=text/html kind=html bytes=18766 err=
+2025-08-09 21:56:56,007 [INFO]  parse html: title='OSAKA FLOWER（大阪産の花き）の販売店について／大阪府（おおさかふ）ホームページ [Osaka Prefect' links=72
+2025-08-09 21:56:56,007 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/osakaflower/index.html#tmp_honbun
+2025-08-09 21:56:56,007 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:56,007 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,007 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:56,007 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:56,008 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,008 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:56,008 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,008 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:56,008 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,008 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:56:56,008 [INFO] [70/4626] GET depth=1 url=https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/naniwa/index.html
+2025-08-09 21:56:56,459 [INFO]  -> status=200 ct=text/html kind=html bytes=15328 err=
+2025-08-09 21:56:56,471 [INFO]  parse html: title='なにわの農産物・農産加工品／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=76
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/shigotosangyou/sangyoujouhou/nouringyou/naniwa/index.html#tmp_honbun
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:56,471 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,471 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:56:56,471 [INFO] [71/4690] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/information/use.html
+2025-08-09 21:56:56,919 [INFO]  -> status=200 ct=text/html kind=html bytes=18154 err=
+2025-08-09 21:56:56,930 [INFO]  parse html: title='このサイトのご利用について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=52
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/information/use.html#tmp_honbun
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:56,930 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:56,931 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:56,931 [INFO]    ... more 42 links omitted ...
+2025-08-09 21:56:56,931 [INFO] [72/4726] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/information/use.html#a1
+2025-08-09 21:56:57,307 [INFO]  -> status=200 ct=text/html kind=html bytes=18154 err=
+2025-08-09 21:56:57,322 [INFO]  parse html: title='このサイトのご利用について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government' links=52
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/information/use.html#tmp_honbun
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:57,322 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:57,323 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:57,323 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:57,323 [INFO]    ... more 42 links omitted ...
+2025-08-09 21:56:57,323 [INFO] [73/4762] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/information/universal.html
+2025-08-09 21:56:57,788 [INFO]  -> status=200 ct=text/html kind=html bytes=15383 err=
+2025-08-09 21:56:57,804 [INFO]  parse html: title='このサイトのユニバーサルデザインについて／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gov' links=47
+2025-08-09 21:56:57,804 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/information/universal.html#tmp_honbun
+2025-08-09 21:56:57,804 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:57,804 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:57,805 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:57,805 [INFO]    ... more 37 links omitted ...
+2025-08-09 21:56:57,805 [INFO] [74/4797] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/information/individual.html
+2025-08-09 21:56:58,257 [INFO]  -> status=200 ct=text/html kind=html bytes=18572 err=
+2025-08-09 21:56:58,273 [INFO]  parse html: title='このサイトの個人情報の取り扱いについて／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gove' links=49
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/information/individual.html#tmp_honbun
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:58,274 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:58,274 [INFO]    ... more 39 links omitted ...
+2025-08-09 21:56:58,274 [INFO] [75/4831] GET depth=1 url=https://www.pref.osaka.lg.jp/koho/sitemap/index.html
+2025-08-09 21:56:58,743 [INFO]  -> status=200 ct=text/html kind=html bytes=36421 err=
+2025-08-09 21:56:58,769 [INFO]  parse html: title='サイトマップ／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=252
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/koho/sitemap/index.html#tmp_honbun
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:58,769 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:58,772 [INFO]    ... more 242 links omitted ...
+2025-08-09 21:56:58,772 [INFO] [76/5071] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/location/index.html
+2025-08-09 21:56:59,231 [INFO]  -> status=200 ct=text/html kind=html bytes=15207 err=
+2025-08-09 21:56:59,243 [INFO]  parse html: title='府庁への行き方／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=55
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/location/index.html#tmp_honbun
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:59,243 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:59,243 [INFO]    ... more 45 links omitted ...
+2025-08-09 21:56:59,244 [INFO] [77/5114] GET depth=1 url=https://www.pref.osaka.lg.jp/o070050/koho/information/index.html
+2025-08-09 21:56:59,697 [INFO]  -> status=200 ct=text/html kind=html bytes=15450 err=
+2025-08-09 21:56:59,713 [INFO]  parse html: title='このサイトについてのご案内（お問合せ）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gove' links=53
+2025-08-09 21:56:59,713 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/information/index.html#tmp_honbun
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:56:59,714 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:56:59,714 [INFO]    ... more 43 links omitted ...
+2025-08-09 21:56:59,714 [INFO] [78/5155] GET depth=1 url=https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_header
+2025-08-09 21:57:00,088 [INFO]  -> status=200 ct=text/html kind=html bytes=29986 err=
+2025-08-09 21:57:00,103 [INFO]  parse html: title='病害虫防除に関すること／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=124
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o120090/nosei/byogaicyu/index.html#tmp_honbun
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:00,103 [INFO]    [link] -> depth=2 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,104 [INFO]    ... more 114 links omitted ...
+2025-08-09 21:57:00,104 [INFO] [79/5155] GET depth=2 url=https://www.pref.osaka.lg.jp/moji.html#tmp_honbun
+2025-08-09 21:57:00,475 [INFO]  -> status=200 ct=text/html kind=html bytes=13423 err=
+2025-08-09 21:57:00,490 [INFO]  parse html: title='文字サイズ・色合い変更／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=38
+2025-08-09 21:57:00,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html#tmp_honbun
+2025-08-09 21:57:00,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:00,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:00,491 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,491 [INFO]    ... more 28 links omitted ...
+2025-08-09 21:57:00,491 [INFO] [80/5157] GET depth=2 url=https://www.pref.osaka.lg.jp/moji.html#tmp_header
+2025-08-09 21:57:00,871 [INFO]  -> status=200 ct=text/html kind=html bytes=13423 err=
+2025-08-09 21:57:00,885 [INFO]  parse html: title='文字サイズ・色合い変更／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=38
+2025-08-09 21:57:00,885 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html#tmp_honbun
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:00,886 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:00,886 [INFO]    ... more 28 links omitted ...
+2025-08-09 21:57:00,886 [INFO] [81/5175] GET depth=2 url=https://www.pref.osaka.lg.jp/index.html#tmp_honbun
+2025-08-09 21:57:01,261 [INFO]  -> status=200 ct=text/html kind=html bytes=39258 err=
+2025-08-09 21:57:01,277 [INFO]  parse html: title='大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=90
+2025-08-09 21:57:01,277 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html#tmp_honbun
+2025-08-09 21:57:01,277 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:01,277 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:01,278 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/kinkyu.xml
+2025-08-09 21:57:01,278 [INFO]    ... more 80 links omitted ...
+2025-08-09 21:57:01,278 [INFO] [82/5223] GET depth=2 url=https://www.pref.osaka.lg.jp/kinkyu/kinkyu.xml
+2025-08-09 21:57:01,761 [INFO]  -> status=200 ct=text/xml kind=xml bytes=576 err=
+2025-08-09 21:57:01,763 [INFO] [83/5223] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/koho/bosai_kyukyu/index.html
+2025-08-09 21:57:02,235 [INFO]  -> status=200 ct=text/html kind=html bytes=16245 err=
+2025-08-09 21:57:02,252 [INFO]  parse html: title='防災・救急・感染症情報／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=63
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/bosai_kyukyu/index.html#tmp_honbun
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:02,253 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:02,253 [INFO]    ... more 53 links omitted ...
+2025-08-09 21:57:02,253 [INFO] [84/5270] GET depth=2 url=https://www.pref.osaka.lg.jp/movie_gaiyo.html
+2025-08-09 21:57:02,766 [INFO]  -> status=200 ct=text/html kind=html bytes=12602 err=
+2025-08-09 21:57:02,781 [INFO]  parse html: title='動画の内容について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=30
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/movie_gaiyo.html#tmp_honbun
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:02,781 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:02,782 [INFO]    ... more 20 links omitted ...
+2025-08-09 21:57:02,782 [INFO] [85/5288] GET depth=2 url=https://www.pref.osaka.lg.jp/o030010020/bampaku_suishin/2025expo/index.html
+2025-08-09 21:57:03,252 [INFO]  -> status=200 ct=text/html kind=html bytes=28085 err=
+2025-08-09 21:57:03,270 [INFO]  parse html: title='2025年日本国際博覧会（大阪・関西万博）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Go' links=61
+2025-08-09 21:57:03,270 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o030010020/bampaku_suishin/2025expo/index.html#tmp_honbun
+2025-08-09 21:57:03,270 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:03,270 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:03,270 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:03,271 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:03,271 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:57:03,271 [INFO] [86/5322] GET depth=2 url=https://www.pref.osaka.lg.jp/toshi.html
+2025-08-09 21:57:03,753 [INFO]  -> status=200 ct=text/html kind=html bytes=16269 err=
+2025-08-09 21:57:03,769 [INFO]  parse html: title='次代を担う人への投資／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=50
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/toshi.html#tmp_honbun
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:03,769 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:03,770 [INFO]    ... more 40 links omitted ...
+2025-08-09 21:57:03,770 [INFO] [87/5357] GET depth=2 url=https://www.pref.osaka.lg.jp/seicho.html
+2025-08-09 21:57:04,228 [INFO]  -> status=200 ct=text/html kind=html bytes=18587 err=
+2025-08-09 21:57:04,244 [INFO]  parse html: title='大阪の持続的な成長・発展／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=62
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/seicho.html#tmp_honbun
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:04,244 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:04,245 [INFO]    ... more 52 links omitted ...
+2025-08-09 21:57:04,245 [INFO] [88/5402] GET depth=2 url=https://www.pref.osaka.lg.jp/anshin.html
+2025-08-09 21:57:04,700 [INFO]  -> status=200 ct=text/html kind=html bytes=22727 err=
+2025-08-09 21:57:04,719 [INFO]  parse html: title='安全・安心なまち大阪／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=84
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/anshin.html#tmp_honbun
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:04,719 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:04,720 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:04,720 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:04,720 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:04,720 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:04,720 [INFO]    ... more 74 links omitted ...
+2025-08-09 21:57:04,720 [INFO] [89/5468] GET depth=2 url=https://www.pref.osaka.lg.jp/fuseiunei/chijinoheya/index.html
+2025-08-09 21:57:05,192 [INFO]  -> status=200 ct=text/html kind=html bytes=16503 err=
+2025-08-09 21:57:05,209 [INFO]  parse html: title='知事の部屋／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=40
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/fuseiunei/chijinoheya/index.html#tmp_honbun
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:05,209 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:05,210 [INFO]    ... more 30 links omitted ...
+2025-08-09 21:57:05,210 [INFO] [90/5496] GET depth=2 url=https://www.pref.osaka.lg.jp/j_fusei/f_menu.html
+2025-08-09 21:57:05,684 [INFO]  -> status=200 ct=text/html kind=html bytes=13414 err=
+2025-08-09 21:57:05,694 [INFO]  parse html: title='大阪府／府政だより' links=28
+2025-08-09 21:57:05,694 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/j_fusei/f_menu.html#main_contents
+2025-08-09 21:57:05,694 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:05,694 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/j_fusei/2508/cts0101_481.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/j_fusei/2508/cts0201_481.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/j_fusei/2508/cts0301_481.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/j_fusei/2508/cts0201_481_ruby.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/koho/fusei/03backpdf.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/fusei/07backpdf.html
+2025-08-09 21:57:05,695 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/koho/fusei/shityoson_koho.html
+2025-08-09 21:57:05,695 [INFO]    ... more 18 links omitted ...
+2025-08-09 21:57:05,695 [INFO] [91/5520] GET depth=2 url=https://www.pref.osaka.lg.jp/o100040/kenkozukuri/nettyusyou/index.html
+2025-08-09 21:57:06,171 [INFO]  -> status=200 ct=text/html kind=html bytes=39275 err=
+2025-08-09 21:57:06,192 [INFO]  parse html: title='こわいんやで熱中症！！／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=105
+2025-08-09 21:57:06,192 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o100040/kenkozukuri/nettyusyou/index.html#tmp_honbun
+2025-08-09 21:57:06,192 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:06,192 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:06,193 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:06,194 [INFO]    ... more 95 links omitted ...
+2025-08-09 21:57:06,194 [INFO] [92/5599] GET depth=2 url=https://www.pref.osaka.lg.jp/o100030/kansenshokikaku/hyakunichizeki.html
+2025-08-09 21:57:06,686 [INFO]  -> status=200 ct=text/html kind=html bytes=15404 err=
+2025-08-09 21:57:06,702 [INFO]  parse html: title='百日咳について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=40
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o100030/kansenshokikaku/hyakunichizeki.html#tmp_honbun
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:06,702 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:06,702 [INFO]    ... more 30 links omitted ...
+2025-08-09 21:57:06,703 [INFO] [93/5626] GET depth=2 url=https://www.pref.osaka.lg.jp/o100030/iryo/osakakansensho/ringo.html
+2025-08-09 21:57:07,157 [INFO]  -> status=200 ct=text/html kind=html bytes=17778 err=
+2025-08-09 21:57:07,173 [INFO]  parse html: title='伝染性紅斑（リンゴ病）について／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governme' links=50
+2025-08-09 21:57:07,173 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o100030/iryo/osakakansensho/ringo.html#tmp_honbun
+2025-08-09 21:57:07,173 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:07,173 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:07,173 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:07,173 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:07,174 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:07,174 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:07,174 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:07,174 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:07,174 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:07,174 [INFO]    ... more 40 links omitted ...
+2025-08-09 21:57:07,174 [INFO] [94/5661] GET depth=2 url=https://www.pref.osaka.lg.jp/o020050/kikaku_keikaku/sdgs/osaka_sdgs_forum.html
+2025-08-09 21:57:07,546 [INFO]  -> status=200 ct=text/html kind=html bytes=38052 err=
+2025-08-09 21:57:07,584 [INFO]  parse html: title='OSAKA JAPAN SDGs Forum／大阪府（おおさかふ）ホームページ [Osaka Prefectural G' links=65
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o020050/kikaku_keikaku/sdgs/osaka_sdgs_forum.html#tmp_honbun
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:07,584 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:07,585 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:07,585 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:07,585 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:07,585 [INFO]    ... more 55 links omitted ...
+2025-08-09 21:57:07,585 [INFO] [95/5697] GET depth=2 url=https://www.pref.osaka.lg.jp/o030010020/chiketto.html
+2025-08-09 21:57:08,040 [INFO]  -> status=200 ct=text/html kind=html bytes=23470 err=
+2025-08-09 21:57:08,058 [INFO]  parse html: title='大阪・関西万博の入場チケットについて／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gover' links=72
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o030010020/chiketto.html#tmp_honbun
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:08,058 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:08,059 [INFO]    ... more 62 links omitted ...
+2025-08-09 21:57:08,059 [INFO] [96/5725] GET depth=2 url=https://www.pref.osaka.lg.jp/hodo/fumin/o120200/prs_50180.html
+2025-08-09 21:57:08,504 [INFO]  -> status=200 ct=text/html kind=html bytes=17575 err=
+2025-08-09 21:57:08,519 [INFO]  parse html: title='アニマル ハーモニー大阪のつどい2025を開催します／大阪府（おおさかふ）ホームページ [Osaka Prefectur' links=37
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/hodo/fumin/o120200/prs_50180.html#tmp_honbun
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:08,519 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:08,519 [INFO]    ... more 27 links omitted ...
+2025-08-09 21:57:08,520 [INFO] [97/5747] GET depth=2 url=https://www.pref.osaka.lg.jp/hodo/fumin/o180090/prs_50512.html
+2025-08-09 21:57:09,019 [INFO]  -> status=200 ct=text/html kind=html bytes=15506 err=
+2025-08-09 21:57:09,037 [INFO]  parse html: title='大阪府立少年自然の家の指定管理者を募集します／大阪府（おおさかふ）ホームページ [Osaka Prefectural G' links=35
+2025-08-09 21:57:09,037 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/hodo/fumin/o180090/prs_50512.html#tmp_honbun
+2025-08-09 21:57:09,037 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:09,037 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:09,038 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,038 [INFO]    ... more 25 links omitted ...
+2025-08-09 21:57:09,038 [INFO] [98/5770] GET depth=2 url=https://www.pref.osaka.lg.jp/hodo/fumin/o070100/prs_51169.html
+2025-08-09 21:57:09,480 [INFO]  -> status=200 ct=text/html kind=html bytes=16971 err=
+2025-08-09 21:57:09,489 [INFO]  parse html: title='大阪府咲洲庁舎を文化芸術活動の発表のステージとしてご利用しませんか？／大阪府（おおさかふ）ホームページ [Osaka P' links=34
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/hodo/fumin/o070100/prs_51169.html#tmp_honbun
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,489 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:09,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:09,490 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,490 [INFO]    ... more 24 links omitted ...
+2025-08-09 21:57:09,490 [INFO] [99/5792] GET depth=2 url=https://www.pref.osaka.lg.jp/hodo/fumin/o060020/prs_50847.html
+2025-08-09 21:57:09,946 [INFO]  -> status=200 ct=text/html kind=html bytes=13966 err=
+2025-08-09 21:57:09,961 [INFO]  parse html: title='渋滞等都市課題の緩和と周遊促進をめざす実証事業「OSAKAエコライドサービス」を開始／大阪府（おおさかふ）ホームページ ' links=34
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/hodo/fumin/o060020/prs_50847.html#tmp_honbun
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:09,962 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:09,962 [INFO]    ... more 24 links omitted ...
+2025-08-09 21:57:09,962 [INFO] [100/5813] GET depth=2 url=https://www.pref.osaka.lg.jp/hodo/fumin/o110050/prs_51037.html
+2025-08-09 21:57:10,419 [INFO]  -> status=200 ct=text/html kind=html bytes=12809 err=
+2025-08-09 21:57:10,434 [INFO]  parse html: title='OSAKA PRIDE PRODUCTS 2025(大阪代表商品販促事業)「阪急うめだ本店」での販売を開始します！／大阪' links=34
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/hodo/fumin/o110050/prs_51037.html#tmp_honbun
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:10,434 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:10,435 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:10,435 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:10,435 [INFO]    ... more 24 links omitted ...
+2025-08-09 21:57:10,435 [INFO] [101/5833] GET depth=2 url=https://www.pref.osaka.lg.jp/shinchaku/index.html
+2025-08-09 21:57:10,889 [INFO]  -> status=200 ct=text/html kind=html bytes=21550 err=
+2025-08-09 21:57:10,911 [INFO]  parse html: title='新着情報一覧／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=80
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/shinchaku/index.html#tmp_honbun
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:10,911 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:10,912 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:10,912 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:10,912 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:10,912 [INFO]    ... more 70 links omitted ...
+2025-08-09 21:57:10,912 [INFO] [102/5901] GET depth=2 url=https://www.pref.osaka.lg.jp/shinchaku/shinchaku.xml
+2025-08-09 21:57:11,289 [INFO]  -> status=200 ct=text/xml kind=xml bytes=39984 err=
+2025-08-09 21:57:11,290 [INFO] [103/5901] GET depth=2 url=https://www.pref.osaka.lg.jp/cgi-bin/hodo/citizens.php
+2025-08-09 21:57:11,771 [INFO]  -> status=200 ct=text/html; charset=utf-8 kind=html bytes=22348 err=
+2025-08-09 21:57:11,789 [INFO]  parse html: title='報道発表資料検索／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=57
+2025-08-09 21:57:11,789 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/cgi-bin/hodo/citizens.php#tmp_honbun
+2025-08-09 21:57:11,789 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:11,789 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:11,790 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:11,790 [INFO]    ... more 47 links omitted ...
+2025-08-09 21:57:11,790 [INFO] [104/5946] GET depth=2 url=https://www.pref.osaka.lg.jp/oshirase/index.html
+2025-08-09 21:57:12,244 [INFO]  -> status=200 ct=text/html kind=html bytes=20824 err=
+2025-08-09 21:57:12,254 [INFO]  parse html: title='その他お知らせ一覧／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=80
+2025-08-09 21:57:12,254 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/oshirase/index.html#tmp_honbun
+2025-08-09 21:57:12,254 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:12,254 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:12,254 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:12,254 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:12,255 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:12,255 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:12,255 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:12,255 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:12,255 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:12,255 [INFO]    ... more 70 links omitted ...
+2025-08-09 21:57:12,255 [INFO] [105/6014] GET depth=2 url=https://www.pref.osaka.lg.jp/o030010020/bampaku_suishin/2025expo/index.html?topics
+2025-08-09 21:57:12,702 [INFO]  -> status=200 ct=text/html kind=html bytes=28085 err=
+2025-08-09 21:57:12,715 [INFO]  parse html: title='2025年日本国際博覧会（大阪・関西万博）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Go' links=61
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o030010020/bampaku_suishin/2025expo/index.html?topics#tmp_honbun
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:12,715 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:12,715 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:57:12,715 [INFO] [106/6048] GET depth=2 url=https://www.pref.osaka.lg.jp/o020060/kikaku/osaka-kokusaikinyu/index.html?topics
+2025-08-09 21:57:13,169 [INFO]  -> status=200 ct=text/html kind=html bytes=44875 err=
+2025-08-09 21:57:13,183 [INFO]  parse html: title='国際金融都市OSAKAの実現に向けた取組み／大阪府（おおさかふ）ホームページ [Osaka Prefectural Go' links=139
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o020060/kikaku/osaka-kokusaikinyu/index.html?topics#tmp_honbun
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:13,183 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:13,184 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:13,184 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:13,184 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:13,184 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:13,184 [INFO]    ... more 129 links omitted ...
+2025-08-09 21:57:13,184 [INFO] [107/6144] GET depth=2 url=https://www.pref.osaka.lg.jp/o020050/kikaku_keikaku/sdgs/index.html?topics
+2025-08-09 21:57:13,627 [INFO]  -> status=200 ct=text/html kind=html bytes=21095 err=
+2025-08-09 21:57:13,650 [INFO]  parse html: title='大阪府におけるSDGsの取組み／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governme' links=64
+2025-08-09 21:57:13,650 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o020050/kikaku_keikaku/sdgs/index.html?topics#tmp_honbun
+2025-08-09 21:57:13,650 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:13,650 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:13,651 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:13,652 [INFO]    ... more 54 links omitted ...
+2025-08-09 21:57:13,652 [INFO] [108/6188] GET depth=2 url=https://www.pref.osaka.lg.jp/gikai/index.html
+2025-08-09 21:57:14,111 [INFO]  -> status=200 ct=text/html kind=html bytes=14625 err=
+2025-08-09 21:57:14,121 [INFO]  parse html: title='大阪府／大阪府議会' links=47
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/index.html#tmp_honbun
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/sitemap.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/giinjouhou/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/honkaigi/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/iinkai/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/fugikai/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/kouhou/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/tetsuzukioshirase/index.html
+2025-08-09 21:57:14,122 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/gikai/chukei.html
+2025-08-09 21:57:14,122 [INFO]    ... more 37 links omitted ...
+2025-08-09 21:57:14,122 [INFO] [109/6225] GET depth=2 url=https://www.pref.osaka.lg.jp/o180010/kyoikusomu/index.html
+2025-08-09 21:57:14,576 [INFO]  -> status=200 ct=text/html kind=html bytes=29805 err=
+2025-08-09 21:57:14,598 [INFO]  parse html: title='大阪府教育庁（大阪府教育委員会）／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governm' links=80
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o180010/kyoikusomu/index.html#tmp_honbun
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:14,598 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:14,599 [INFO]    ... more 70 links omitted ...
+2025-08-09 21:57:14,599 [INFO] [110/6286] GET depth=2 url=https://www.pref.osaka.lg.jp/fuseiunei/kouhou/link/index.html
+2025-08-09 21:57:15,055 [INFO]  -> status=200 ct=text/html kind=html bytes=11368 err=
+2025-08-09 21:57:15,071 [INFO]  parse html: title='大阪府の市町村等／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=48
+2025-08-09 21:57:15,071 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/fuseiunei/kouhou/link/index.html#tmp_honbun
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:15,072 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:15,072 [INFO]    ... more 38 links omitted ...
+2025-08-09 21:57:15,072 [INFO] [111/6322] GET depth=2 url=https://www.pref.osaka.lg.jp/open/index.html
+2025-08-09 21:57:15,536 [INFO]  -> status=200 ct=text/html kind=html bytes=18320 err=
+2025-08-09 21:57:15,550 [INFO]  parse html: title='オープン府庁の推進／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=46
+2025-08-09 21:57:15,550 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/open/index.html#tmp_honbun
+2025-08-09 21:57:15,550 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:15,550 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:15,550 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:15,551 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:15,551 [INFO]    ... more 36 links omitted ...
+2025-08-09 21:57:15,551 [INFO] [112/6352] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/fumin/public/index.html
+2025-08-09 21:57:16,024 [INFO]  -> status=200 ct=text/html kind=html bytes=16971 err=
+2025-08-09 21:57:16,039 [INFO]  parse html: title='パブリックコメント（計画案等へのご意見）の実施状況／大阪府（おおさかふ）ホームページ [Osaka Prefectura' links=52
+2025-08-09 21:57:16,039 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/fumin/public/index.html#tmp_honbun
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:16,040 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:16,040 [INFO]    ... more 42 links omitted ...
+2025-08-09 21:57:16,040 [INFO] [113/6392] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/fumin/occ/index.html
+2025-08-09 21:57:16,495 [INFO]  -> status=200 ct=text/html kind=html bytes=26363 err=
+2025-08-09 21:57:16,515 [INFO]  parse html: title='府民お問合せセンター　ピピっとライン／大阪府（おおさかふ）ホームページ [Osaka Prefectural Gover' links=76
+2025-08-09 21:57:16,515 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/fumin/occ/index.html#tmp_honbun
+2025-08-09 21:57:16,515 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:16,515 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:16,516 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:16,516 [INFO]    ... more 66 links omitted ...
+2025-08-09 21:57:16,516 [INFO] [114/6443] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/koho/character2/index.html
+2025-08-09 21:57:17,004 [INFO]  -> status=200 ct=text/html kind=html bytes=19091 err=
+2025-08-09 21:57:17,024 [INFO]  parse html: title='大阪府広報担当副知事もずやん／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governmen' links=61
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/character2/index.html#tmp_honbun
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:17,025 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:17,025 [INFO]    ... more 51 links omitted ...
+2025-08-09 21:57:17,025 [INFO] [115/6489] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/koho/sns_list/index.html
+2025-08-09 21:57:17,488 [INFO]  -> status=200 ct=text/html kind=html bytes=14902 err=
+2025-08-09 21:57:17,500 [INFO]  parse html: title='大阪府SNS等アカウント一覧／大阪府（おおさかふ）ホームページ [Osaka Prefectural Governmen' links=48
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sns_list/index.html#tmp_honbun
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:17,500 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:17,500 [INFO]    ... more 38 links omitted ...
+2025-08-09 21:57:17,500 [INFO] [116/6525] GET depth=2 url=https://www.pref.osaka.lg.jp/o070050/koho/ba_kokoku/index.html
+2025-08-09 21:57:17,990 [INFO]  -> status=200 ct=text/html kind=html bytes=15737 err=
+2025-08-09 21:57:18,006 [INFO]  parse html: title='ホームページバナー広告／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=52
+2025-08-09 21:57:18,006 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/ba_kokoku/index.html#tmp_honbun
+2025-08-09 21:57:18,006 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:18,006 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:18,006 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:18,006 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:18,007 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,007 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:18,007 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,007 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:18,007 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:18,007 [INFO]    ... more 42 links omitted ...
+2025-08-09 21:57:18,007 [INFO] [117/6565] GET depth=2 url=https://www.pref.osaka.lg.jp/banner/1/banner_list_1.html
+2025-08-09 21:57:18,459 [INFO]  -> status=200 ct=text/html kind=html bytes=14488 err=
+2025-08-09 21:57:18,471 [INFO]  parse html: title='バナー広告一覧：大阪府公式ホームページ' links=40
+2025-08-09 21:57:18,471 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/banner/1/banner_list_1.html#tmp_honbun
+2025-08-09 21:57:18,471 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:18,472 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/banner/1/banner_list_1.html
+2025-08-09 21:57:18,472 [INFO]    ... more 30 links omitted ...
+2025-08-09 21:57:18,472 [INFO] [118/6586] GET depth=2 url=https://www.pref.osaka.lg.jp/index.html#tmp_header
+2025-08-09 21:57:18,835 [INFO]  -> status=200 ct=text/html kind=html bytes=39258 err=
+2025-08-09 21:57:18,861 [INFO]  parse html: title='大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=90
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html#tmp_honbun
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:18,861 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/kinkyu.xml
+2025-08-09 21:57:18,862 [INFO]    ... more 80 links omitted ...
+2025-08-09 21:57:18,862 [INFO] [119/6642] GET depth=2 url=https://www.pref.osaka.lg.jp/kinkyu/index.html#tmp_honbun
+2025-08-09 21:57:19,231 [INFO]  -> status=200 ct=text/html kind=html bytes=10285 err=
+2025-08-09 21:57:19,242 [INFO]  parse html: title='防災・緊急情報一覧／大阪府（おおさかふ）ホームページ [Osaka Prefectural Government]' links=33
+2025-08-09 21:57:19,242 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html#tmp_honbun
+2025-08-09 21:57:19,242 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:19,243 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:19,243 [INFO]    ... more 23 links omitted ...
+2025-08-09 21:57:19,243 [INFO] [120/6652] GET depth=2 url=https://www.pref.osaka.lg.jp/o020080/kikikanri/nannkaitotahu_rinji/tijimesseji2.html
+2025-08-09 21:57:19,724 [INFO]  -> status=200 ct=text/html kind=html bytes=16693 err=
+2025-08-09 21:57:19,739 [INFO]  parse html: title='南海トラフ地震臨時情報に係る知事メッセージ（令和6年8月8日）／大阪府（おおさかふ）ホームページ [Osaka Pref' links=47
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o020080/kikikanri/nannkaitotahu_rinji/tijimesseji2.html#tmp_honbun
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/moji.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/kinkyu/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/category/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/soshikikarasagasu/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/purpose/index.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/o070050/koho/sitemap/sagasikata.html
+2025-08-09 21:57:19,740 [INFO]    [link] -> depth=3 https://www.pref.osaka.lg.jp/index.html
+2025-08-09 21:57:19,741 [INFO]    ... more 37 links omitted ...
+2025-08-09 21:57:19,748 [INFO] DONE pages=120 pdfs=445 visited=120 queued=6566
+2025-08-09 21:57:19,748 [INFO] Wrote: 大阪府.pages.csv, 大阪府.pdfs.csv, 大阪府.sections.csv

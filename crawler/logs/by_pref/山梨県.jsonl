@@ -1,0 +1,44 @@
+{"ts": "2025-08-09T20:34:54", "type": "pref_start", "pref": "山梨県", "url": "http://www.pref.yamanashi.jp/byogaichu/"}
+{"ts": "2025-08-09T20:34:55", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/kajyukame.html", "status": 200, "ct": "text/html", "bytes": 16507}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/92111468716.html", "status": 200, "ct": "text/html", "bytes": 17544}
+{"ts": "2025-08-09T20:34:56", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/00035185449.html", "status": 200, "ct": "text/html", "bytes": 17077}
+{"ts": "2025-08-09T20:34:57", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/74996960885.html", "status": 200, "ct": "text/html", "bytes": 22334}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/69805589938.html", "status": 200, "ct": "text/html", "bytes": 21391}
+{"ts": "2025-08-09T20:34:58", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/32981772904.html", "status": 200, "ct": "text/html", "bytes": 16907}
+{"ts": "2025-08-09T20:34:59", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/70369587845.html", "status": 200, "ct": "text/html", "bytes": 18201}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/70568874362.html", "status": 200, "ct": "text/html", "bytes": 16112}
+{"ts": "2025-08-09T20:35:00", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/byogaichu_kaisetu/entrance.html", "status": 200, "ct": "text/html", "bytes": 14305}
+{"ts": "2025-08-09T20:35:01", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/sakumotu_kekka.html", "status": 200, "ct": "text/html", "bytes": 19291}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/85664833915.html", "status": 200, "ct": "text/html", "bytes": 20199}
+{"ts": "2025-08-09T20:35:02", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/60912568269.html", "status": 200, "ct": "text/html", "bytes": 21098}
+{"ts": "2025-08-09T20:35:03", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/48755569157.html", "status": 200, "ct": "text/html", "bytes": 16702}
+{"ts": "2025-08-09T20:35:04", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/36374170778.html", "status": 200, "ct": "text/html", "bytes": 17788}
+{"ts": "2025-08-09T20:35:04", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/boujo_kijyun/chojugai.html", "status": 200, "ct": "text/html", "bytes": 32639}
+{"ts": "2025-08-09T20:35:05", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/byogaichuboujyoin.html", "status": 200, "ct": "text/html", "bytes": 19538}
+{"ts": "2025-08-09T20:35:06", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/rinksyu.html", "status": 200, "ct": "text/html", "bytes": 33242}
+{"ts": "2025-08-09T20:35:06", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/42640254972.html", "status": 200, "ct": "text/html", "bytes": 17739}
+{"ts": "2025-08-09T20:35:07", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/96780390754.html", "status": 200, "ct": "text/html", "bytes": 17300}
+{"ts": "2025-08-09T20:35:08", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/49725861010.html", "status": 200, "ct": "text/html", "bytes": 20394}
+{"ts": "2025-08-09T20:35:08", "type": "pref_end", "pref": "山梨県", "latest_year": 2025, "earliest_year": 2011, "hits_3y": 33, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.yamanashi.jp/byogaichu/kajyukame.html;http://www.pref.yamanashi.jp/byogaichu/92111468716.html;http://www.pref.yamanashi.jp/byogaichu/00035185449.html"}
+{"ts": "2025-08-09T20:42:17", "type": "pref_start", "pref": "山梨県", "url": "http://www.pref.yamanashi.jp/byogaichu/"}
+{"ts": "2025-08-09T20:42:18", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/kajyukame.html", "status": 200, "ct": "text/html", "bytes": 16507}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/92111468716.html", "status": 200, "ct": "text/html", "bytes": 17544}
+{"ts": "2025-08-09T20:42:19", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/00035185449.html", "status": 200, "ct": "text/html", "bytes": 17077}
+{"ts": "2025-08-09T20:42:20", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/74996960885.html", "status": 200, "ct": "text/html", "bytes": 22334}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/69805589938.html", "status": 200, "ct": "text/html", "bytes": 21391}
+{"ts": "2025-08-09T20:42:21", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/32981772904.html", "status": 200, "ct": "text/html", "bytes": 16907}
+{"ts": "2025-08-09T20:42:22", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/70369587845.html", "status": 200, "ct": "text/html", "bytes": 18201}
+{"ts": "2025-08-09T20:42:23", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/70568874362.html", "status": 200, "ct": "text/html", "bytes": 16112}
+{"ts": "2025-08-09T20:42:23", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/byogaichu_kaisetu/entrance.html", "status": 200, "ct": "text/html", "bytes": 14305}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/sakumotu_kekka.html", "status": 200, "ct": "text/html", "bytes": 19291}
+{"ts": "2025-08-09T20:42:24", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/85664833915.html", "status": 200, "ct": "text/html", "bytes": 20199}
+{"ts": "2025-08-09T20:42:25", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/60912568269.html", "status": 200, "ct": "text/html", "bytes": 21098}
+{"ts": "2025-08-09T20:42:26", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/48755569157.html", "status": 200, "ct": "text/html", "bytes": 16702}
+{"ts": "2025-08-09T20:42:26", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/36374170778.html", "status": 200, "ct": "text/html", "bytes": 17788}
+{"ts": "2025-08-09T20:42:27", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/boujo_kijyun/chojugai.html", "status": 200, "ct": "text/html", "bytes": 32639}
+{"ts": "2025-08-09T20:42:28", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/byogaichuboujyoin.html", "status": 200, "ct": "text/html", "bytes": 19538}
+{"ts": "2025-08-09T20:42:28", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/rinksyu.html", "status": 200, "ct": "text/html", "bytes": 33242}
+{"ts": "2025-08-09T20:42:29", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/42640254972.html", "status": 200, "ct": "text/html", "bytes": 17739}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/96780390754.html", "status": 200, "ct": "text/html", "bytes": 17300}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "http://www.pref.yamanashi.jp/byogaichu/49725861010.html", "status": 200, "ct": "text/html", "bytes": 20394}
+{"ts": "2025-08-09T20:42:30", "type": "pref_end", "pref": "山梨県", "latest_year": 2025, "earliest_year": 2011, "hits_3y": 33, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.yamanashi.jp/byogaichu/kajyukame.html;http://www.pref.yamanashi.jp/byogaichu/92111468716.html;http://www.pref.yamanashi.jp/byogaichu/00035185449.html"}

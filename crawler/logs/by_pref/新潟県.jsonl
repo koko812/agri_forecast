@@ -1,0 +1,26 @@
+{"ts": "2025-08-09T20:35:03", "type": "pref_start", "pref": "新潟県", "url": "http://www.pref.niigata.lg.jp/bojo/"}
+{"ts": "2025-08-09T20:35:04", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250801.html", "status": 200, "ct": "text/html", "bytes": 22955}
+{"ts": "2025-08-09T20:35:04", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250731.html", "status": 200, "ct": "text/html", "bytes": 22618}
+{"ts": "2025-08-09T20:35:05", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250715.html", "status": 200, "ct": "text/html", "bytes": 22444}
+{"ts": "2025-08-09T20:35:05", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250710.html", "status": 200, "ct": "text/html", "bytes": 22291}
+{"ts": "2025-08-09T20:35:06", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu07.html", "status": 200, "ct": "text/html", "bytes": 25952}
+{"ts": "2025-08-09T20:35:07", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu06.html", "status": 200, "ct": "text/html", "bytes": 24321}
+{"ts": "2025-08-09T20:35:07", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu05.html", "status": 200, "ct": "text/html", "bytes": 23735}
+{"ts": "2025-08-09T20:35:08", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu04.html", "status": 200, "ct": "text/html", "bytes": 23404}
+{"ts": "2025-08-09T20:35:08", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu03.html", "status": 200, "ct": "text/html", "bytes": 24999}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu02.html", "status": 200, "ct": "text/html", "bytes": 24689}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu31.html", "status": 200, "ct": "text/html", "bytes": 24124}
+{"ts": "2025-08-09T20:35:09", "type": "pref_end", "pref": "新潟県", "latest_year": 2025, "earliest_year": 2015, "hits_3y": 10, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.niigata.lg.jp/sec/bojo/250801.html;http://www.pref.niigata.lg.jp/sec/bojo/250731.html;http://www.pref.niigata.lg.jp/sec/bojo/250715.html"}
+{"ts": "2025-08-09T20:42:25", "type": "pref_start", "pref": "新潟県", "url": "http://www.pref.niigata.lg.jp/bojo/"}
+{"ts": "2025-08-09T20:42:25", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250801.html", "status": 200, "ct": "text/html", "bytes": 22955}
+{"ts": "2025-08-09T20:42:26", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250731.html", "status": 200, "ct": "text/html", "bytes": 22618}
+{"ts": "2025-08-09T20:42:27", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250715.html", "status": 200, "ct": "text/html", "bytes": 22444}
+{"ts": "2025-08-09T20:42:27", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/250710.html", "status": 200, "ct": "text/html", "bytes": 22291}
+{"ts": "2025-08-09T20:42:28", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu07.html", "status": 200, "ct": "text/html", "bytes": 25952}
+{"ts": "2025-08-09T20:42:29", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu06.html", "status": 200, "ct": "text/html", "bytes": 24321}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu05.html", "status": 200, "ct": "text/html", "bytes": 23735}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu04.html", "status": 200, "ct": "text/html", "bytes": 23404}
+{"ts": "2025-08-09T20:42:31", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu03.html", "status": 200, "ct": "text/html", "bytes": 24999}
+{"ts": "2025-08-09T20:42:31", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu02.html", "status": 200, "ct": "text/html", "bytes": 24689}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "http://www.pref.niigata.lg.jp/sec/bojo/yosatu31.html", "status": 200, "ct": "text/html", "bytes": 24124}
+{"ts": "2025-08-09T20:42:32", "type": "pref_end", "pref": "新潟県", "latest_year": 2025, "earliest_year": 2015, "hits_3y": 10, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.niigata.lg.jp/sec/bojo/250801.html;http://www.pref.niigata.lg.jp/sec/bojo/250731.html;http://www.pref.niigata.lg.jp/sec/bojo/250715.html"}

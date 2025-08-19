@@ -1,0 +1,10 @@
+{"ts": "2025-08-09T20:35:09", "type": "pref_start", "pref": "岐阜県", "url": "https://www.pref.gifu.lg.jp/soshiki/24321/"}
+{"ts": "2025-08-09T20:35:10", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/99600.html", "status": 200, "ct": "text/html", "bytes": 20138}
+{"ts": "2025-08-09T20:35:11", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/2934.html", "status": 200, "ct": "text/html", "bytes": 20429}
+{"ts": "2025-08-09T20:35:12", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/2988.html", "status": 200, "ct": "text/html", "bytes": 19498}
+{"ts": "2025-08-09T20:35:12", "type": "pref_end", "pref": "岐阜県", "latest_year": 2025, "earliest_year": 2021, "hits_3y": 17, "html_ratio": 1.0, "has_backnumber": 0, "score10": 8, "samples": "https://www.pref.gifu.lg.jp/page/99600.html;https://www.pref.gifu.lg.jp/page/2934.html;https://www.pref.gifu.lg.jp/page/2988.html"}
+{"ts": "2025-08-09T20:42:30", "type": "pref_start", "pref": "岐阜県", "url": "https://www.pref.gifu.lg.jp/soshiki/24321/"}
+{"ts": "2025-08-09T20:42:31", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/99600.html", "status": 200, "ct": "text/html", "bytes": 20138}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/2934.html", "status": 200, "ct": "text/html", "bytes": 20429}
+{"ts": "2025-08-09T20:42:32", "type": "fetch", "url": "https://www.pref.gifu.lg.jp/page/2988.html", "status": 200, "ct": "text/html", "bytes": 19498}
+{"ts": "2025-08-09T20:42:32", "type": "pref_end", "pref": "岐阜県", "latest_year": 2025, "earliest_year": 2021, "hits_3y": 17, "html_ratio": 1.0, "has_backnumber": 0, "score10": 8, "samples": "https://www.pref.gifu.lg.jp/page/99600.html;https://www.pref.gifu.lg.jp/page/2934.html;https://www.pref.gifu.lg.jp/page/2988.html"}

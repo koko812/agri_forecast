@@ -1,0 +1,32 @@
+{"ts": "2025-08-09T20:35:17", "type": "pref_start", "pref": "京都府", "url": "http://www.pref.kyoto.jp/byogai/"}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/syurui.html", "status": 200, "ct": "text/html", "bytes": 19201}
+{"ts": "2025-08-09T20:35:19", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2025_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 561363}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2025_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 248422}
+{"ts": "2025-08-09T20:35:20", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_05.pdf", "status": 200, "ct": "application/pdf", "bytes": 187353}
+{"ts": "2025-08-09T20:35:21", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_04.pdf", "status": 200, "ct": "application/pdf", "bytes": 273320}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "http://www.pref.kyoto.jp/bojosho/mailservice/mailservice.html", "status": 200, "ct": "text/html", "bytes": 16496}
+{"ts": "2025-08-09T20:35:22", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tobiirohatuhirai20240821.pdf", "status": 200, "ct": "application/pdf", "bytes": 35116}
+{"ts": "2025-08-09T20:35:23", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_03.pdf", "status": 200, "ct": "application/pdf", "bytes": 322431}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_02.pdf", "status": 200, "ct": "application/pdf", "bytes": 218575}
+{"ts": "2025-08-09T20:35:24", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_03.pdf", "status": 200, "ct": "application/pdf", "bytes": 674886}
+{"ts": "2025-08-09T20:35:25", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 172307}
+{"ts": "2025-08-09T20:35:26", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_02.pdf", "status": 200, "ct": "application/pdf", "bytes": 446344}
+{"ts": "2025-08-09T20:35:26", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/yohou.html", "status": 200, "ct": "text/html", "bytes": 17049}
+{"ts": "2025-08-09T20:35:27", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/blastam2024.pdf", "status": 200, "ct": "application/pdf", "bytes": 78700}
+{"ts": "2025-08-09T20:35:27", "type": "pref_end", "pref": "京都府", "latest_year": 2026, "earliest_year": 2000, "hits_3y": 8, "html_ratio": 0.21, "has_backnumber": 0, "score10": 5, "samples": "http://www.pref.kyoto.jp/byogai/syurui.html;http://www.pref.kyoto.jp/byogai/documents/tokusyu2025_01.pdf;http://www.pref.kyoto.jp/byogai/documents/chuui2025_01.pdf"}
+{"ts": "2025-08-09T20:42:38", "type": "pref_start", "pref": "京都府", "url": "http://www.pref.kyoto.jp/byogai/"}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/syurui.html", "status": 200, "ct": "text/html", "bytes": 19201}
+{"ts": "2025-08-09T20:42:40", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2025_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 561363}
+{"ts": "2025-08-09T20:42:40", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2025_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 248422}
+{"ts": "2025-08-09T20:42:41", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_05.pdf", "status": 200, "ct": "application/pdf", "bytes": 187353}
+{"ts": "2025-08-09T20:42:42", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_04.pdf", "status": 200, "ct": "application/pdf", "bytes": 273320}
+{"ts": "2025-08-09T20:42:42", "type": "fetch", "url": "http://www.pref.kyoto.jp/bojosho/mailservice/mailservice.html", "status": 200, "ct": "text/html", "bytes": 16496}
+{"ts": "2025-08-09T20:42:43", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tobiirohatuhirai20240821.pdf", "status": 200, "ct": "application/pdf", "bytes": 35116}
+{"ts": "2025-08-09T20:42:44", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_03.pdf", "status": 200, "ct": "application/pdf", "bytes": 322431}
+{"ts": "2025-08-09T20:42:44", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_02.pdf", "status": 200, "ct": "application/pdf", "bytes": 218575}
+{"ts": "2025-08-09T20:42:45", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_03.pdf", "status": 200, "ct": "application/pdf", "bytes": 674886}
+{"ts": "2025-08-09T20:42:46", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/chuui2024_01.pdf", "status": 200, "ct": "application/pdf", "bytes": 172307}
+{"ts": "2025-08-09T20:42:46", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/tokusyu2024_02.pdf", "status": 200, "ct": "application/pdf", "bytes": 446344}
+{"ts": "2025-08-09T20:42:47", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/yohou.html", "status": 200, "ct": "text/html", "bytes": 17049}
+{"ts": "2025-08-09T20:42:47", "type": "fetch", "url": "http://www.pref.kyoto.jp/byogai/documents/blastam2024.pdf", "status": 200, "ct": "application/pdf", "bytes": 78700}
+{"ts": "2025-08-09T20:42:47", "type": "pref_end", "pref": "京都府", "latest_year": 2025, "earliest_year": 2006, "hits_3y": 8, "html_ratio": 0.21, "has_backnumber": 0, "score10": 5, "samples": "http://www.pref.kyoto.jp/byogai/syurui.html;http://www.pref.kyoto.jp/byogai/documents/tokusyu2025_01.pdf;http://www.pref.kyoto.jp/byogai/documents/chuui2025_01.pdf"}

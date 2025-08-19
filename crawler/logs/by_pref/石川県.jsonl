@@ -1,0 +1,14 @@
+{"ts": "2025-08-09T20:35:08", "type": "pref_start", "pref": "石川県", "url": "http://www.pref.ishikawa.lg.jp/noken/index.html"}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/noushi/byougaityu_yosatsu/index.html", "status": 200, "ct": "text/html", "bytes": 25854}
+{"ts": "2025-08-09T20:35:09", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/kensyoku/kaikeininyou/202507.html", "status": 200, "ct": "text/html", "bytes": 23816}
+{"ts": "2025-08-09T20:35:10", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/internship/r01.html", "status": 200, "ct": "text/html", "bytes": 24768}
+{"ts": "2025-08-09T20:35:11", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/internship/intern.html", "status": 200, "ct": "text/html", "bytes": 24428}
+{"ts": "2025-08-09T20:35:11", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/documents/r6_goukakusya.pdf", "status": 200, "ct": "application/pdf", "bytes": 54611}
+{"ts": "2025-08-09T20:35:11", "type": "pref_end", "pref": "石川県", "latest_year": 2025, "earliest_year": 2000, "hits_3y": 11, "html_ratio": 0.8, "has_backnumber": 1, "score10": 9, "samples": "http://www.pref.ishikawa.lg.jp/noken/noushi/byougaityu_yosatsu/index.html;http://www.pref.ishikawa.lg.jp/noken/kensyoku/kaikeininyou/202507.html;http://www.pref.ishikawa.lg.jp/noken/internship/r01.html"}
+{"ts": "2025-08-09T20:42:26", "type": "pref_start", "pref": "石川県", "url": "http://www.pref.ishikawa.lg.jp/noken/index.html"}
+{"ts": "2025-08-09T20:42:27", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/noushi/byougaityu_yosatsu/index.html", "status": 200, "ct": "text/html", "bytes": 25854}
+{"ts": "2025-08-09T20:42:28", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/kensyoku/kaikeininyou/202507.html", "status": 200, "ct": "text/html", "bytes": 23816}
+{"ts": "2025-08-09T20:42:28", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/internship/r01.html", "status": 200, "ct": "text/html", "bytes": 24768}
+{"ts": "2025-08-09T20:42:29", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/internship/intern.html", "status": 200, "ct": "text/html", "bytes": 24428}
+{"ts": "2025-08-09T20:42:30", "type": "fetch", "url": "http://www.pref.ishikawa.lg.jp/noken/documents/r6_goukakusya.pdf", "status": 200, "ct": "application/pdf", "bytes": 54611}
+{"ts": "2025-08-09T20:42:30", "type": "pref_end", "pref": "石川県", "latest_year": 2025, "earliest_year": 2017, "hits_3y": 1, "html_ratio": 0.8, "has_backnumber": 1, "score10": 7, "samples": "http://www.pref.ishikawa.lg.jp/noken/noushi/byougaityu_yosatsu/index.html;http://www.pref.ishikawa.lg.jp/noken/kensyoku/kaikeininyou/202507.html;http://www.pref.ishikawa.lg.jp/noken/internship/r01.html"}

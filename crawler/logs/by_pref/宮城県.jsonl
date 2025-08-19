@@ -1,0 +1,10 @@
+{"ts": "2025-08-09T20:34:42", "type": "pref_start", "pref": "宮城県", "url": "http://www.pref.miyagi.jp/soshiki/byogai/"}
+{"ts": "2025-08-09T20:34:43", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#bojojoho", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:34:44", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:34:44", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#chuiho", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:34:44", "type": "pref_end", "pref": "宮城県", "latest_year": 2025, "earliest_year": 2004, "hits_3y": 60, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#bojojoho;http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html;http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#chuiho"}
+{"ts": "2025-08-09T20:42:05", "type": "pref_start", "pref": "宮城県", "url": "http://www.pref.miyagi.jp/soshiki/byogai/"}
+{"ts": "2025-08-09T20:42:06", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#bojojoho", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:42:07", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:42:07", "type": "fetch", "url": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#chuiho", "status": 200, "ct": "text/html", "bytes": 33438}
+{"ts": "2025-08-09T20:42:07", "type": "pref_end", "pref": "宮城県", "latest_year": 2025, "earliest_year": 2004, "hits_3y": 60, "html_ratio": 1.0, "has_backnumber": 0, "score10": 9, "samples": "http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#bojojoho;http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html;http://www.pref.miyagi.jp/soshiki/byogai/r07yosatsu.html#chuiho"}

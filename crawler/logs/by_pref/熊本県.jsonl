@@ -1,0 +1,18 @@
+{"ts": "2025-08-09T20:35:52", "type": "pref_start", "pref": "熊本県", "url": "https://www.pref.kumamoto.jp/soshiki/75/125504.html"}
+{"ts": "2025-08-09T20:35:52", "type": "fetch", "url": "https://www.pref.kumamoto.jp/soshiki/75/201204.html", "status": 200, "ct": "text/html", "bytes": 27654}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "https://www.pref.kumamoto.jp/soshiki/75/130406.html", "status": 200, "ct": "text/html", "bytes": 23308}
+{"ts": "2025-08-09T20:35:53", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/286865.pdf", "status": 200, "ct": "application/pdf", "bytes": 881245}
+{"ts": "2025-08-09T20:35:54", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/285192.pdf", "status": 200, "ct": "application/pdf", "bytes": 390129}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/283248.pdf", "status": 200, "ct": "application/pdf", "bytes": 959404}
+{"ts": "2025-08-09T20:35:55", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/281055.pdf", "status": 200, "ct": "application/pdf", "bytes": 403202}
+{"ts": "2025-08-09T20:35:56", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/280826.pdf", "status": 200, "ct": "application/pdf", "bytes": 969399}
+{"ts": "2025-08-09T20:35:56", "type": "pref_end", "pref": "熊本県", "latest_year": 2043, "earliest_year": 2010, "hits_3y": 2, "html_ratio": 0.29, "has_backnumber": 1, "score10": 5, "samples": "https://www.pref.kumamoto.jp/soshiki/75/201204.html;https://www.pref.kumamoto.jp/soshiki/75/130406.html;https://www.pref.kumamoto.jp/uploaded/attachment/286865.pdf"}
+{"ts": "2025-08-09T20:43:12", "type": "pref_start", "pref": "熊本県", "url": "https://www.pref.kumamoto.jp/soshiki/75/125504.html"}
+{"ts": "2025-08-09T20:43:13", "type": "fetch", "url": "https://www.pref.kumamoto.jp/soshiki/75/201204.html", "status": 200, "ct": "text/html", "bytes": 27654}
+{"ts": "2025-08-09T20:43:14", "type": "fetch", "url": "https://www.pref.kumamoto.jp/soshiki/75/130406.html", "status": 200, "ct": "text/html", "bytes": 23308}
+{"ts": "2025-08-09T20:43:14", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/286865.pdf", "status": 200, "ct": "application/pdf", "bytes": 881245}
+{"ts": "2025-08-09T20:43:15", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/285192.pdf", "status": 200, "ct": "application/pdf", "bytes": 390129}
+{"ts": "2025-08-09T20:43:15", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/283248.pdf", "status": 200, "ct": "application/pdf", "bytes": 959404}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/281055.pdf", "status": 200, "ct": "application/pdf", "bytes": 403202}
+{"ts": "2025-08-09T20:43:16", "type": "fetch", "url": "https://www.pref.kumamoto.jp/uploaded/attachment/280826.pdf", "status": 200, "ct": "application/pdf", "bytes": 969399}
+{"ts": "2025-08-09T20:43:16", "type": "pref_end", "pref": "熊本県", "latest_year": 2025, "earliest_year": 2010, "hits_3y": 2, "html_ratio": 0.29, "has_backnumber": 1, "score10": 5, "samples": "https://www.pref.kumamoto.jp/soshiki/75/201204.html;https://www.pref.kumamoto.jp/soshiki/75/130406.html;https://www.pref.kumamoto.jp/uploaded/attachment/286865.pdf"}

@@ -1,0 +1,28 @@
+{"ts": "2025-08-09T20:35:12", "type": "pref_start", "pref": "滋賀県", "url": "https://www.pref.shiga.lg.jp/boujyo/"}
+{"ts": "2025-08-09T20:35:12", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/", "status": 200, "ct": "text/html", "bytes": 36376}
+{"ts": "2025-08-09T20:35:13", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103510.html", "status": 200, "ct": "text/html", "bytes": 29656}
+{"ts": "2025-08-09T20:35:14", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/343008.html", "status": 200, "ct": "text/html", "bytes": 28020}
+{"ts": "2025-08-09T20:35:14", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/yohou/336942.html", "status": 200, "ct": "text/html", "bytes": 33887}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103511.html", "status": 200, "ct": "text/html", "bytes": 32120}
+{"ts": "2025-08-09T20:35:15", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/keihou/103721.html", "status": 200, "ct": "text/html", "bytes": 27996}
+{"ts": "2025-08-09T20:35:16", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/yohou/", "status": 200, "ct": "text/html", "bytes": 39106}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/keihou/", "status": 200, "ct": "text/html", "bytes": 51591}
+{"ts": "2025-08-09T20:35:17", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/", "status": 200, "ct": "text/html", "bytes": 68741}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/", "status": 200, "ct": "text/html", "bytes": 35593}
+{"ts": "2025-08-09T20:35:18", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/315695/", "status": 200, "ct": "text/html", "bytes": 35445}
+{"ts": "2025-08-09T20:35:19", "type": "fetch", "url": "http://www.pref.shiga.lg.jp/ippan/shigotosangyou/nougyou/ryutsuu/303181.html", "status": 200, "ct": "text/html", "bytes": 56753}
+{"ts": "2025-08-09T20:35:19", "type": "pref_end", "pref": "滋賀県", "latest_year": 2025, "earliest_year": 2015, "hits_3y": 109, "html_ratio": 1.0, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/;https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103510.html;https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/343008.html"}
+{"ts": "2025-08-09T20:42:32", "type": "pref_start", "pref": "滋賀県", "url": "https://www.pref.shiga.lg.jp/boujyo/"}
+{"ts": "2025-08-09T20:42:33", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/", "status": 200, "ct": "text/html", "bytes": 36376}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103510.html", "status": 200, "ct": "text/html", "bytes": 29656}
+{"ts": "2025-08-09T20:42:34", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/343008.html", "status": 200, "ct": "text/html", "bytes": 28020}
+{"ts": "2025-08-09T20:42:35", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/yohou/336942.html", "status": 200, "ct": "text/html", "bytes": 33887}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103511.html", "status": 200, "ct": "text/html", "bytes": 32120}
+{"ts": "2025-08-09T20:42:36", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/keihou/103721.html", "status": 200, "ct": "text/html", "bytes": 27996}
+{"ts": "2025-08-09T20:42:37", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/yohou/", "status": 200, "ct": "text/html", "bytes": 39106}
+{"ts": "2025-08-09T20:42:37", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/keihou/", "status": 200, "ct": "text/html", "bytes": 51591}
+{"ts": "2025-08-09T20:42:38", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/", "status": 200, "ct": "text/html", "bytes": 68741}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/", "status": 200, "ct": "text/html", "bytes": 35593}
+{"ts": "2025-08-09T20:42:39", "type": "fetch", "url": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/315695/", "status": 200, "ct": "text/html", "bytes": 35445}
+{"ts": "2025-08-09T20:42:40", "type": "fetch", "url": "http://www.pref.shiga.lg.jp/ippan/shigotosangyou/nougyou/ryutsuu/303181.html", "status": 200, "ct": "text/html", "bytes": 56753}
+{"ts": "2025-08-09T20:42:40", "type": "pref_end", "pref": "滋賀県", "latest_year": 2025, "earliest_year": 2025, "hits_3y": 13, "html_ratio": 1.0, "has_backnumber": 1, "score10": 9, "samples": "https://www.pref.shiga.lg.jp/boujyo/yosatsu/;https://www.pref.shiga.lg.jp/boujyo/yosatsu/hasseiryou/103510.html;https://www.pref.shiga.lg.jp/boujyo/yosatsu/yosatsuzyouhou/zyouhou/343008.html"}

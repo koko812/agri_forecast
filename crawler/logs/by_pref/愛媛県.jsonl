@@ -1,0 +1,16 @@
+{"ts": "2025-08-09T20:35:46", "type": "pref_start", "pref": "愛媛県", "url": "https://www.pref.ehime.jp/site/byocyubojo/index.html"}
+{"ts": "2025-08-09T20:35:47", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/109977.html", "status": 200, "ct": "text/html", "bytes": 30466}
+{"ts": "2025-08-09T20:35:47", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52365.html", "status": 200, "ct": "text/html", "bytes": 29662}
+{"ts": "2025-08-09T20:35:48", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52341.html", "status": 200, "ct": "text/html", "bytes": 31647}
+{"ts": "2025-08-09T20:35:48", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52370.html", "status": 200, "ct": "text/html", "bytes": 29914}
+{"ts": "2025-08-09T20:35:49", "type": "fetch", "url": "https://www.pref.ehime.jp/page/53749.html", "status": 200, "ct": "text/html", "bytes": 26575}
+{"ts": "2025-08-09T20:35:49", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52372.html", "status": 200, "ct": "text/html", "bytes": 28888}
+{"ts": "2025-08-09T20:35:49", "type": "pref_end", "pref": "愛媛県", "latest_year": 2038, "earliest_year": 2021, "hits_3y": 41, "html_ratio": 1.0, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.ehime.jp/site/byocyubojo/109977.html;https://www.pref.ehime.jp/site/byocyubojo/52365.html;https://www.pref.ehime.jp/site/byocyubojo/52341.html"}
+{"ts": "2025-08-09T20:43:08", "type": "pref_start", "pref": "愛媛県", "url": "https://www.pref.ehime.jp/site/byocyubojo/index.html"}
+{"ts": "2025-08-09T20:43:08", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/109977.html", "status": 200, "ct": "text/html", "bytes": 30466}
+{"ts": "2025-08-09T20:43:09", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52365.html", "status": 200, "ct": "text/html", "bytes": 29662}
+{"ts": "2025-08-09T20:43:10", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52341.html", "status": 200, "ct": "text/html", "bytes": 31647}
+{"ts": "2025-08-09T20:43:10", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52370.html", "status": 200, "ct": "text/html", "bytes": 29914}
+{"ts": "2025-08-09T20:43:11", "type": "fetch", "url": "https://www.pref.ehime.jp/page/53749.html", "status": 200, "ct": "text/html", "bytes": 26575}
+{"ts": "2025-08-09T20:43:11", "type": "fetch", "url": "https://www.pref.ehime.jp/site/byocyubojo/52372.html", "status": 200, "ct": "text/html", "bytes": 28888}
+{"ts": "2025-08-09T20:43:11", "type": "pref_end", "pref": "愛媛県", "latest_year": 2025, "earliest_year": 2021, "hits_3y": 41, "html_ratio": 1.0, "has_backnumber": 1, "score10": 10, "samples": "https://www.pref.ehime.jp/site/byocyubojo/109977.html;https://www.pref.ehime.jp/site/byocyubojo/52365.html;https://www.pref.ehime.jp/site/byocyubojo/52341.html"}
