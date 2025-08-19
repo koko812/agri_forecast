@@ -1,0 +1,11 @@
+[project]
+name = "ui-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "h3>=4.3.1",
+    "pydeck>=0.9.1",
+    "streamlit>=1.48.1",
+]
