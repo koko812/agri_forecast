@@ -1,44 +1,46 @@
-# read_jma_html_wide6.py
+# get_hourly_extras.py  ← 時刻, 気温, 降水量, 風速 を取得
+import requests
+from bs4 import BeautifulSoup
 import pandas as pd
+from datetime import datetime, timedelta
 
-# 例: 東京都・日ごとの値（都内各地点が横に並ぶページ）
-url = "https://www.data.jma.go.jp/stats/etrn/view/daily_s1.php?prec_no=44&block_no=&year=2025&month=4&day=&view="
+BASE = "https://www.data.jma.go.jp/stats/etrn/view/hourly_s1.php"
+PARAMS = dict(prec_no="44", block_no="47662", year="2025", month="1", day="1", view="p1")
 
-METRIC = "平均気温(℃)"
-N_COLS = 6
+def to_num(s: str, zero_for_dash=False):
+    s = s.strip().replace("−","-")
+    if s in ("--","",None):
+        return 0.0 if zero_for_dash else None
+    try:
+        return float(s)
+    except ValueError:
+        return None
 
-# 1) とりあえず素で読む（テーブル群）
-tables = pd.read_html(url, header=None)   # headerは後で指定し直す
-# 2) “年月日”が含まれるテーブルを探す
-target = None
-for t in tables:
-    if (t.astype(str).apply(lambda s: s.str.contains("年月日").any())).any():
-        target = t
-        break
-if target is None:
-    raise SystemExit("年月日を含むテーブルが見つかりませんでした。URL/ページ種別を確認してください。")
+resp = requests.get(BASE, params=PARAMS, headers={"User-Agent":"Mozilla/5.0"}, timeout=20)
+resp.raise_for_status()
+soup = BeautifulSoup(resp.content.decode("cp932","ignore"), "html.parser")
 
-# 3) 3行目=地点, 4行目=要素 という想定で MultiIndex 列に組み直す
-#    （HTMLだとちょうどこの構造になっていることが多い）
-header_names = target.iloc[2]   # 地点名の行
-header_elems = target.iloc[3]   # 要素名の行
-data = target.iloc[6:].reset_index(drop=True)  # 1,2,5,6行目は不要、7行目以降がデータ
+rows = []
+table = soup.select_one("#tablefix1")
+for tr in table.select("tr"):
+    tds = tr.find_all("td")
+    if len(tds) < 10:  # データ行でない
+        continue
+    h_txt = tds[0].get_text(strip=True)
+    if not h_txt.isdigit():
+        continue
+    hour   = int(h_txt)
+    temp   = to_num(tds[4].get_text(strip=True))                 # 気温(℃)
+    precip = to_num(tds[3].get_text(strip=True), zero_for_dash=True)  # 降水量(mm) '--'→0
+    wind   = to_num(tds[8].get_text(strip=True))                 # 風速(m/s)
 
-data.columns = pd.MultiIndex.from_arrays([header_names.values, header_elems.values])
+    y,m,d = map(int, (PARAMS["year"], PARAMS["month"], PARAMS["day"]))
+    base = datetime(y,m,d)
+    ts = (base + timedelta(days=1)).replace(hour=0) if hour==24 else base.replace(hour=hour)
 
-# 4) 日付列（level1 == '年月日'）を index に
-date_col = [c for c in data.columns if isinstance(c, tuple) and c[1] == "年月日"][0]
-data[date_col] = pd.to_datetime(data[date_col], errors="coerce")
-wide = data.set_index(date_col).xs(METRIC, axis=1, level=1).dropna(axis=1, how="all")
+    rows.append({"datetime": ts, "temp": temp, "precip": precip, "wind_speed": wind})
 
-# 5) 6列だけ表示（左から）
-cols = list(wide.columns)[:N_COLS]
-view = wide[cols]
-
-pd.set_option("display.width", 2000)
-pd.set_option("display.max_columns", N_COLS + 1)
-print(f"\n=== ワイド表（要素: {METRIC}、列数: {len(cols)}）=== ")
-print("列（地点）:", ", ".join(cols))
-print()
-print(view.to_string(index=True))
+df = pd.DataFrame(rows).dropna(subset=["datetime"])
+print(df.head(12))
+# df.to_csv("data/hourly_tokyo_20250101.csv", index=False)
 
