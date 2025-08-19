@@ -4,18 +4,27 @@ import pandas as pd
 from datetime import date as date_cls
 from jma_fetch import fetch_hourly_data  # 英語キーで返す版
 
+from pathlib import Path
+BASE_DIR = Path(__file__).resolve().parent          # ui_python/
+DATA_DIR = BASE_DIR / "data"                        # ui_python/data
+
+# （念のため）同階層モジュールがimportできるように
+import sys
+if str(BASE_DIR) not in sys.path:
+    sys.path.append(str(BASE_DIR))
+
 st.set_page_config(page_title="JMA 時間別データビューア", layout="wide")
 
 @st.cache_data
 def load_prec() -> pd.DataFrame:
-    df = pd.read_csv("data/prec_no_list.csv")
+    df = pd.read_csv(DATA_DIR / "prec_no_list.csv")   # ← ここを DATA_DIR に
     df["prec_no"] = df["prec_no"].astype(str).str.strip()
     df["area"] = df["area"].astype(str).str.strip()
     return df
 
 @st.cache_data
 def load_stations() -> pd.DataFrame:
-    df = pd.read_csv("data/station_list.csv")
+    df = pd.read_csv(DATA_DIR / "station_list.csv")   # ← ここを DATA_DIR に
     df["prec_no"] = df["prec_no"].astype(str).str.strip()
     df["block_no"] = df["block_no"].astype(str).str.zfill(5)
     df["name"] = df["name"].astype(str).str.replace('"', '').str.strip()
