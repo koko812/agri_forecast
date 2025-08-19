@@ -1,23 +1,24 @@
-# pip install h3 pydeck streamlit pandas
-import pandas as pd, math, random
+import pandas as pd, math
 import h3, pydeck as pdk, streamlit as st
 
 st.title("気温マップ（実データCSV→H3 最近傍）")
 
-CSV_PATH = "data/stations_temp.csv"
-RES = 7                      # H3解像度（~1km）
-RING = 8                     # 何セル分広げるか（表示の広がり）
+# ① 先に CSV を選ぶ（ここが一番上）
+csv_choice = st.selectbox(
+    "観測点CSVを選択",
+    ["dummy_data/stations_temp.csv", "dummy_data/stations_temp_dense.csv", "dummy_data/stations_temp_extra.csv", "dummy_data/tokyo_dense.csv"]
+)
+df = pd.read_csv(csv_choice)
 
-# ---- 1) 観測点CSVを読む ----
-df = pd.read_csv(CSV_PATH)
+RES  = 7
+RING = 8
 
-# ---- 2) セル集合（観測点セルを起点にリングを広げる）----
+# ② ここから下は「選んだ df」を使って再計算
 seed_cells = [h3.latlng_to_cell(r.lat, r.lon, RES) for r in df.itertuples()]
 cells = set(seed_cells)
 for c in seed_cells:
     cells |= set(h3.grid_disk(c, RING))
 
-# ---- 3) 最近傍ステーションを探す（簡易ハバースイン距離）----
 stations = [(r.lat, r.lon, float(r.temp)) for r in df.itertuples()]
 def haversine(lat1, lon1, lat2, lon2):
     R = 6371.0088
@@ -35,14 +36,12 @@ def nn_temp(lat, lon):
             best = (d, t)
     return best[1]
 
-# ---- 4) H3セルごとに値を付与 ----
 data = []
 for c in cells:
     lat, lon = h3.cell_to_latlng(c)
-    temp = nn_temp(lat, lon)           # 最近傍の観測値
+    temp = nn_temp(lat, lon)
     data.append({"h3": c, "value": round(temp, 1), "unit": "°C"})
 
-# ---- 5) カラーマップ & レイヤ ----
 def cmap(v, vmin=26, vmax=36):
     v = max(vmin, min(vmax, v)); t = (v - vmin) / (vmax - vmin + 1e-9)
     r = int(20 + t*(255-20)); g = int(120 + t*(60-120)); b = int(255 + t*(60-255))
@@ -60,11 +59,10 @@ h3_layer = pdk.Layer(
     get_line_color=[50, 50, 50],
     lineWidthMinPixels=1.2,
     filled=True,
-    opacity=0.4,   # あなたの好みに合わせた透過
+    opacity=0.4,
     pickable=True,
 )
 
-# 観測点も点で重ねると説得力UP
 scatter = pdk.Layer(
     "ScatterplotLayer",
     [{"lat": r.lat, "lon": r.lon, "temp": float(r.temp)} for r in df.itertuples()],
